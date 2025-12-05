@@ -1,0 +1,9465 @@
+1: L1
+Current number: 49
+1: R43
+Current number: 92
+1: R6
+Current number: 98
+1: R50
+Current number: 48
+1: R47
+Current number: 95
+1: R18
+Current number: 13
+1: L12
+Current number: 1
+1: L21
+Current number: 80
+1: R21
+Current number: 1
+1: R38
+Current number: 39
+1: R15
+Current number: 54
+1: R1
+Current number: 55
+1: L19
+Current number: 36
+1: R36
+Current number: 72
+1: L33
+Current number: 39
+1: R25
+Current number: 64
+1: L6
+Current number: 58
+1: R25
+Current number: 83
+1: L7
+Current number: 76
+1: L44
+Current number: 32
+1: R16
+Current number: 48
+1: L43
+Current number: 5
+1: R27
+Current number: 32
+1: L26
+Current number: 6
+1: R17
+Current number: 23
+1: R32
+Current number: 55
+1: R49
+Current number: 4
+1: L39
+Current number: 65
+1: R22
+Current number: 87
+1: L1
+Current number: 86
+1: L10
+Current number: 76
+1: R24
+Current number: 0
+1: L23
+Current number: 77
+1: R10
+Current number: 87
+1: R13
+Current number: 0
+1: L34
+Current number: 66
+1: L34
+Current number: 32
+1: L32
+Current number: 0
+1: R2
+Current number: 2
+1: L14
+Current number: 88
+1: L26
+Current number: 62
+1: L46
+Current number: 16
+1: L42
+Current number: 74
+1: R35
+Current number: 9
+1: R21
+Current number: 30
+1: R38
+Current number: 68
+1: L8
+Current number: 60
+1: L15
+Current number: 45
+1: L29
+Current number: 16
+1: L52
+Current number: 64
+1: L10
+Current number: 54
+1: L54
+Current number: 0
+1: R7
+Current number: 7
+1: R35
+Current number: 42
+1: L16
+Current number: 26
+1: L99
+Current number: 27
+1: L60
+Current number: 67
+1: R33
+Current number: 0
+1: L38
+Current number: 62
+1: L62
+Current number: 0
+1: L5
+Current number: 95
+1: L42
+Current number: 53
+1: L53
+Current number: 0
+1: R33
+Current number: 33
+1: L68
+Current number: 65
+1: L27
+Current number: 38
+1: R19
+Current number: 57
+1: L57
+Current number: 0
+1: R36
+Current number: 36
+1: R64
+Current number: 0
+1: L27
+Current number: 73
+1: R84
+Current number: 57
+1: R32
+Current number: 89
+1: R11
+Current number: 0
+1: L39
+Current number: 61
+1: L22
+Current number: 39
+1: L11
+Current number: 28
+1: R72
+Current number: 0
+1: R78
+Current number: 78
+1: L3
+Current number: 75
+1: L75
+Current number: 0
+1: L52
+Current number: 48
+1: R71
+Current number: 19
+1: R81
+Current number: 0
+1: R59
+Current number: 59
+1: L73
+Current number: 86
+1: R62
+Current number: 48
+1: L57
+Current number: 91
+1: L56
+Current number: 35
+1: L99
+Current number: 36
+1: R64
+Current number: 0
+1: R63
+Current number: 63
+1: R64
+Current number: 27
+1: L77
+Current number: 50
+1: L50
+Current number: 0
+1: R57
+Current number: 57
+1: R43
+Current number: 0
+1: R86
+Current number: 86
+1: L86
+Current number: 0
+1: R9
+Current number: 9
+1: L9
+Current number: 0
+1: R95
+Current number: 95
+1: R430
+Current number: 425
+1: L5
+Current number: 320
+1: R27
+Current number: 247
+1: R86
+Current number: 233
+1: R67
+Current number: 200
+1: L97
+Current number: 3
+1: L29
+Current number: 74
+1: L993
+Current number: -819
+1: L14
+Current number: -733
+1: L27
+Current number: -660
+1: R21
+Current number: -539
+1: L205
+Current number: -644
+1: R913
+Current number: 169
+1: R74
+Current number: 143
+1: R57
+Current number: 100
+1: R63
+Current number: 63
+1: L754
+Current number: -591
+1: R791
+Current number: 100
+1: L21
+Current number: 79
+1: L28
+Current number: 51
+1: R91
+Current number: 42
+1: L63
+Current number: 79
+1: L79
+Current number: 0
+1: R61
+Current number: 61
+1: R61
+Current number: 22
+1: L622
+Current number: -500
+1: L58
+Current number: -458
+1: L69
+Current number: -427
+1: R879
+Current number: 352
+1: L64
+Current number: 188
+1: L718
+Current number: -430
+1: L23
+Current number: -353
+1: L47
+Current number: -300
+1: R26
+Current number: -174
+1: R74
+Current number: 0
+1: R30
+Current number: 30
+1: R46
+Current number: 76
+1: R74
+Current number: 50
+1: R850
+Current number: 800
+1: R53
+Current number: 753
+1: L775
+Current number: 78
+1: L78
+Current number: 0
+1: R8
+Current number: 8
+1: L21
+Current number: 87
+1: R713
+Current number: 700
+1: L95
+Current number: 505
+1: L27
+Current number: 378
+1: R37
+Current number: 315
+1: L9
+Current number: 206
+1: L36
+Current number: 70
+1: R10
+Current number: 80
+1: L96
+Current number: 84
+1: R34
+Current number: 18
+1: L27
+Current number: 91
+1: L36
+Current number: 55
+1: R45
+Current number: 0
+1: R33
+Current number: 33
+1: L93
+Current number: 40
+1: R60
+Current number: 0
+1: L97
+Current number: 3
+1: R3
+Current number: 6
+1: R94
+Current number: 0
+1: R8
+Current number: 8
+1: R50
+Current number: 58
+1: R67
+Current number: 25
+1: R975
+Current number: 900
+1: R83
+Current number: 883
+1: L27
+Current number: 756
+1: L42
+Current number: 614
+1: R86
+Current number: 600
+1: R904
+Current number: 1404
+1: L30
+Current number: 1274
+1: L81
+Current number: 1093
+1: R7
+Current number: 1000
+1: L43
+Current number: 857
+1: R612
+Current number: 1369
+1: L67
+Current number: 1202
+1: L7
+Current number: 1095
+1: R45
+Current number: 1040
+1: R63
+Current number: 1003
+1: R97
+Current number: 1000
+1: R41
+Current number: 941
+1: R29
+Current number: 870
+1: L224
+Current number: 546
+1: R56
+Current number: 502
+1: L38
+Current number: 364
+1: L64
+Current number: 200
+1: R63
+Current number: 163
+1: L21
+Current number: 42
+1: L94
+Current number: 48
+1: R52
+Current number: 0
+1: L61
+Current number: 39
+1: L39
+Current number: 0
+1: R892
+Current number: 792
+1: L92
+Current number: 600
+1: R775
+Current number: 1275
+1: L28
+Current number: 1147
+1: R91
+Current number: 1138
+1: R70
+Current number: 1108
+1: R87
+Current number: 1095
+1: L52
+Current number: 943
+1: R57
+Current number: 900
+1: R97
+Current number: 897
+1: L27
+Current number: 770
+1: L97
+Current number: 573
+1: L673
+Current number: 0
+1: R44
+Current number: 44
+1: R63
+Current number: 7
+1: L96
+Current number: 11
+1: L7
+Current number: 4
+1: L36
+Current number: 68
+1: R2
+Current number: 70
+1: R25
+Current number: 95
+1: R44
+Current number: 39
+1: L54
+Current number: 85
+1: L85
+Current number: 0
+1: L89
+Current number: 11
+1: L61
+Current number: 50
+1: R50
+Current number: 0
+1: R17
+Current number: 17
+1: L35
+Current number: 82
+1: L382
+Current number: -200
+1: R67
+Current number: -33
+1: L928
+Current number: -861
+1: L12
+Current number: -773
+1: L553
+Current number: -1226
+1: R26
+Current number: -1100
+1: R7
+Current number: -993
+1: R93
+Current number: -800
+1: L10
+Current number: -710
+1: R10
+Current number: -600
+1: R92
+Current number: -408
+1: R257
+Current number: -51
+1: L5
+Current number: 44
+1: R72
+Current number: 16
+1: R84
+Current number: 0
+1: L98
+Current number: 2
+1: L2
+Current number: 0
+1: L823
+Current number: -723
+1: R85
+Current number: -538
+1: L50
+Current number: -488
+1: L412
+Current number: -800
+1: L80
+Current number: -780
+1: R227
+Current number: -453
+1: L354
+Current number: -707
+1: L93
+Current number: -700
+1: L4
+Current number: -604
+1: L796
+Current number: -1300
+1: L834
+Current number: -2034
+1: R62
+Current number: -1872
+1: L903
+Current number: -2675
+1: L46
+Current number: -2621
+1: L79
+Current number: -2600
+1: R428
+Current number: -2072
+1: L28
+Current number: -2000
+1: L20
+Current number: -1920
+1: L139
+Current number: -1959
+1: L41
+Current number: -1900
+1: R82
+Current number: -1718
+1: R18
+Current number: -1600
+1: R87
+Current number: -1413
+1: R99
+Current number: -1214
+1: R14
+Current number: -1100
+1: R970
+Current number: -30
+1: R30
+Current number: 0
+1: L58
+Current number: 42
+1: L54
+Current number: 88
+1: L29
+Current number: 59
+1: L54
+Current number: 5
+1: L5
+Current number: 0
+1: R43
+Current number: 43
+1: L685
+Current number: -542
+1: R542
+Current number: 0
+1: R618
+Current number: 518
+1: R482
+Current number: 900
+1: L536
+Current number: 264
+1: L43
+Current number: 121
+1: R36
+Current number: 57
+1: R27
+Current number: 84
+1: L84
+Current number: 0
+1: R37
+Current number: 37
+1: L14
+Current number: 23
+1: L14
+Current number: 9
+1: L73
+Current number: 36
+1: R5
+Current number: 41
+1: L41
+Current number: 0
+1: L21
+Current number: 79
+1: L779
+Current number: -600
+1: R39
+Current number: -461
+1: R61
+Current number: -300
+1: L99
+Current number: -299
+1: L58
+Current number: -257
+1: L484
+Current number: -641
+1: R3
+Current number: -538
+1: L36
+Current number: -474
+1: R37
+Current number: -337
+1: L99
+Current number: -336
+1: L64
+Current number: -300
+1: R94
+Current number: -106
+1: R34
+Current number: 28
+1: L28
+Current number: 0
+1: L9
+Current number: 91
+1: R45
+Current number: 36
+1: L23
+Current number: 13
+1: L65
+Current number: 48
+1: R91
+Current number: 39
+1: R61
+Current number: 0
+1: L880
+Current number: -780
+1: L16
+Current number: -696
+1: L104
+Current number: -700
+1: R76
+Current number: -524
+1: R23
+Current number: -401
+1: R1
+Current number: -300
+1: R149
+Current number: -51
+1: L47
+Current number: 2
+1: R70
+Current number: 72
+1: R14
+Current number: 86
+1: L16
+Current number: 70
+1: R81
+Current number: 51
+1: R49
+Current number: 0
+1: L33
+Current number: 67
+1: L67
+Current number: 0
+1: R677
+Current number: 577
+1: L77
+Current number: 400
+1: L420
+Current number: 80
+1: R120
+Current number: 100
+1: R59
+Current number: 59
+1: L59
+Current number: 0
+1: R90
+Current number: 90
+1: L47
+Current number: 43
+1: L37
+Current number: 6
+1: L6
+Current number: 0
+1: R71
+Current number: 71
+1: L71
+Current number: 0
+1: R82
+Current number: 82
+1: R78
+Current number: 60
+1: R40
+Current number: 0
+1: R39
+Current number: 39
+1: L54
+Current number: 85
+1: R82
+Current number: 67
+1: L9
+Current number: 58
+1: R2
+Current number: 60
+1: R41
+Current number: 1
+1: R99
+Current number: 0
+1: R9
+Current number: 9
+1: R91
+Current number: 0
+1: L69
+Current number: 31
+1: R69
+Current number: 0
+1: L41
+Current number: 59
+1: R41
+Current number: 0
+1: L482
+Current number: -382
+1: R19
+Current number: -263
+1: R388
+Current number: 25
+1: R75
+Current number: 0
+1: L38
+Current number: 62
+1: L62
+Current number: 0
+1: L5
+Current number: 95
+1: R5
+Current number: 0
+1: L46
+Current number: 54
+1: R93
+Current number: 47
+1: R645
+Current number: 592
+1: R8
+Current number: 500
+1: R1
+Current number: 401
+1: L1
+Current number: 300
+1: L7
+Current number: 193
+1: L875
+Current number: -582
+1: L807
+Current number: -1289
+1: L57
+Current number: -1246
+1: R46
+Current number: -1100
+1: R55
+Current number: -945
+1: R45
+Current number: -800
+1: L89
+Current number: -789
+1: L4
+Current number: -693
+1: R11
+Current number: -582
+1: R26
+Current number: -456
+1: L613
+Current number: -969
+1: R469
+Current number: -400
+1: L60
+Current number: -360
+1: R84
+Current number: -176
+1: R69
+Current number: -7
+1: R7
+Current number: 0
+1: R159
+Current number: 59
+1: R24
+Current number: 83
+1: L47
+Current number: 36
+1: R51
+Current number: 87
+1: R13
+Current number: 0
+1: L878
+Current number: -778
+1: L22
+Current number: -700
+1: L220
+Current number: -820
+1: L29
+Current number: -749
+1: R48
+Current number: -601
+1: R29
+Current number: -472
+1: L37
+Current number: -409
+1: R75
+Current number: -234
+1: R42
+Current number: -92
+1: R87
+Current number: 95
+1: L95
+Current number: 0
+1: R21
+Current number: 21
+1: R179
+Current number: 100
+1: L188
+Current number: 12
+1: L54
+Current number: 58
+1: R42
+Current number: 0
+1: L56
+Current number: 44
+1: L46
+Current number: 98
+1: L39
+Current number: 59
+1: L493
+Current number: -334
+1: L74
+Current number: -308
+1: R9
+Current number: -199
+1: L81
+Current number: -180
+1: R24
+Current number: -56
+1: L28
+Current number: 16
+1: L57
+Current number: 59
+1: L46
+Current number: 13
+1: L13
+Current number: 0
+1: R11
+Current number: 11
+1: L22
+Current number: 89
+1: L96
+Current number: 93
+1: R7
+Current number: 0
+1: L94
+Current number: 6
+1: L82
+Current number: 24
+1: R99
+Current number: 23
+1: R12
+Current number: 35
+1: R65
+Current number: 0
+1: L83
+Current number: 17
+1: L17
+Current number: 0
+1: L47
+Current number: 53
+1: L53
+Current number: 0
+1: L263
+Current number: -163
+1: L46
+Current number: -109
+1: L5
+Current number: -14
+1: R714
+Current number: 600
+1: R990
+Current number: 1490
+1: R14
+Current number: 1404
+1: L53
+Current number: 1251
+1: L36
+Current number: 1115
+1: R85
+Current number: 1100
+1: L3
+Current number: 997
+1: L97
+Current number: 800
+1: L66
+Current number: 634
+1: R766
+Current number: 1300
+1: L61
+Current number: 1139
+1: R661
+Current number: 1700
+1: L25
+Current number: 1575
+1: L5
+Current number: 1470
+1: R65
+Current number: 1435
+1: L75
+Current number: 1260
+1: L560
+Current number: 600
+1: R72
+Current number: 572
+1: R556
+Current number: 1028
+1: R9
+Current number: 937
+1: L7
+Current number: 830
+1: R170
+Current number: 900
+1: R20
+Current number: 820
+1: R40
+Current number: 760
+1: L860
+Current number: 0
+1: L21
+Current number: 79
+1: R50
+Current number: 29
+1: R524
+Current number: 453
+1: R47
+Current number: 400
+1: L304
+Current number: 96
+1: R12
+Current number: 8
+1: R41
+Current number: 49
+1: L55
+Current number: 94
+1: L5
+Current number: 89
+1: L48
+Current number: 41
+1: R428
+Current number: 369
+1: R313
+Current number: 582
+1: R68
+Current number: 550
+1: R410
+Current number: 860
+1: R2
+Current number: 762
+1: L687
+Current number: 75
+1: R25
+Current number: 0
+1: R37
+Current number: 37
+1: R22
+Current number: 59
+1: R12
+Current number: 71
+1: L9
+Current number: 62
+1: R38
+Current number: 0
+1: R54
+Current number: 54
+1: R243
+Current number: 197
+1: L89
+Current number: 8
+1: L8
+Current number: 0
+1: R29
+Current number: 29
+1: L66
+Current number: 63
+1: L63
+Current number: 0
+1: L815
+Current number: -715
+1: R115
+Current number: -500
+1: L69
+Current number: -469
+1: R71
+Current number: -298
+1: R98
+Current number: -100
+1: R70
+Current number: 70
+1: R31
+Current number: 1
+1: L22
+Current number: 79
+1: R21
+Current number: 0
+1: R47
+Current number: 47
+1: R16
+Current number: 63
+1: R37
+Current number: 0
+1: L80
+Current number: 20
+1: L65
+Current number: 55
+1: R45
+Current number: 0
+1: R55
+Current number: 55
+1: L355
+Current number: -200
+1: L23
+Current number: -123
+1: L48
+Current number: -71
+1: R93
+Current number: 22
+1: R78
+Current number: 0
+1: L23
+Current number: 77
+1: L44
+Current number: 33
+1: R24
+Current number: 57
+1: L38
+Current number: 19
+1: L7
+Current number: 12
+1: L12
+Current number: 0
+1: R73
+Current number: 73
+1: L67
+Current number: 6
+1: R94
+Current number: 0
+1: L13
+Current number: 87
+1: L87
+Current number: 0
+1: R31
+Current number: 31
+1: L59
+Current number: 72
+1: R54
+Current number: 26
+1: R180
+Current number: 106
+1: L404
+Current number: -198
+1: L776
+Current number: -874
+1: R36
+Current number: -738
+1: L590
+Current number: -1228
+1: R28
+Current number: -1100
+1: L77
+Current number: -1077
+1: L914
+Current number: -1891
+1: R54
+Current number: -1737
+1: L963
+Current number: -2600
+1: R70
+Current number: -2430
+1: R13
+Current number: -2317
+1: R517
+Current number: -1700
+1: L46
+Current number: -1646
+1: R46
+Current number: -1500
+1: L13
+Current number: -1413
+1: L28
+Current number: -1341
+1: R38
+Current number: -1203
+1: R39
+Current number: -1064
+1: L36
+Current number: -1000
+1: R33
+Current number: -867
+1: L33
+Current number: -800
+1: R689
+Current number: -11
+1: R85
+Current number: 74
+1: R56
+Current number: 30
+1: R615
+Current number: 545
+1: L45
+Current number: 400
+1: L51
+Current number: 249
+1: R812
+Current number: 961
+1: R39
+Current number: 900
+1: R83
+Current number: 883
+1: L686
+Current number: 97
+1: L49
+Current number: 48
+1: L48
+Current number: 0
+1: L82
+Current number: 18
+1: L52
+Current number: 66
+1: R34
+Current number: 0
+1: R52
+Current number: 52
+1: R88
+Current number: 40
+1: L71
+Current number: 69
+1: L69
+Current number: 0
+1: R46
+Current number: 46
+1: R54
+Current number: 0
+1: L17
+Current number: 83
+1: R17
+Current number: 0
+1: R70
+Current number: 70
+1: L70
+Current number: 0
+1: L641
+Current number: -541
+1: L362
+Current number: -803
+1: R17
+Current number: -686
+1: L6
+Current number: -592
+1: L8
+Current number: -500
+1: R4
+Current number: -396
+1: R96
+Current number: -200
+1: R514
+Current number: 214
+1: L20
+Current number: 94
+1: L75
+Current number: 19
+1: R37
+Current number: 56
+1: R37
+Current number: 93
+1: R7
+Current number: 0
+1: L74
+Current number: 26
+1: R56
+Current number: 82
+1: L51
+Current number: 31
+1: L31
+Current number: 0
+1: R42
+Current number: 42
+1: R94
+Current number: 36
+1: L25
+Current number: 11
+1: L11
+Current number: 0
+1: L31
+Current number: 69
+1: L8
+Current number: 61
+1: L761
+Current number: -600
+1: R26
+Current number: -474
+1: R74
+Current number: -300
+1: L102
+Current number: -302
+1: R2
+Current number: -200
+1: L67
+Current number: -167
+1: R3
+Current number: -64
+1: R94
+Current number: 30
+1: R95
+Current number: 25
+1: L47
+Current number: 78
+1: L19
+Current number: 59
+1: L19
+Current number: 40
+1: L40
+Current number: 0
+1: R177
+Current number: 77
+1: L37
+Current number: 40
+1: L40
+Current number: 0
+1: L46
+Current number: 54
+1: R20
+Current number: 74
+1: R126
+Current number: 100
+1: R89
+Current number: 89
+1: R40
+Current number: 29
+1: R17
+Current number: 46
+1: R876
+Current number: 822
+1: R251
+Current number: 973
+1: L37
+Current number: 836
+1: R758
+Current number: 1494
+1: R6
+Current number: 1400
+1: R96
+Current number: 1396
+1: L20
+Current number: 1276
+1: R24
+Current number: 1200
+1: R472
+Current number: 1572
+1: R28
+Current number: 1500
+1: L83
+Current number: 1317
+1: L17
+Current number: 1200
+1: R588
+Current number: 1688
+1: L244
+Current number: 1344
+1: R312
+Current number: 1556
+1: R15
+Current number: 1471
+1: R13
+Current number: 1384
+1: L284
+Current number: 1000
+1: L36
+Current number: 864
+1: L20
+Current number: 744
+1: L820
+Current number: 24
+1: L14
+Current number: 10
+1: R74
+Current number: 84
+1: L84
+Current number: 0
+1: L49
+Current number: 51
+1: R49
+Current number: 0
+1: L92
+Current number: 8
+1: R86
+Current number: 94
+1: R59
+Current number: 53
+1: R181
+Current number: 134
+1: R66
+Current number: 100
+1: L74
+Current number: 26
+1: R637
+Current number: 563
+1: R52
+Current number: 515
+1: L15
+Current number: 400
+1: L21
+Current number: 279
+1: R21
+Current number: 200
+1: R83
+Current number: 183
+1: R12
+Current number: 95
+1: R5
+Current number: 0
+1: L83
+Current number: 17
+1: R201
+Current number: 118
+1: R31
+Current number: 49
+1: L63
+Current number: 86
+1: L45
+Current number: 41
+1: R97
+Current number: 38
+1: R22
+Current number: 60
+1: R34
+Current number: 94
+1: R14
+Current number: 8
+1: L542
+Current number: -434
+1: L29
+Current number: -363
+1: R63
+Current number: -200
+1: L521
+Current number: -621
+1: R12
+Current number: -509
+1: L32
+Current number: -441
+1: L956
+Current number: -1297
+1: L21
+Current number: -1218
+1: R71
+Current number: -1047
+1: R47
+Current number: -900
+1: R119
+Current number: -681
+1: R81
+Current number: -500
+1: R56
+Current number: -344
+1: L56
+Current number: -300
+1: R610
+Current number: 210
+1: R90
+Current number: 200
+1: R12
+Current number: 112
+1: R408
+Current number: 420
+1: R580
+Current number: 900
+1: L68
+Current number: 732
+1: R99
+Current number: 731
+1: L58
+Current number: 573
+1: R23
+Current number: 496
+1: R604
+Current number: 1000
+1: R72
+Current number: 972
+1: L30
+Current number: 842
+1: L89
+Current number: 653
+1: R893
+Current number: 1446
+1: L54
+Current number: 1292
+1: L92
+Current number: 1100
+1: R51
+Current number: 1051
+1: L7
+Current number: 944
+1: R77
+Current number: 921
+1: L21
+Current number: 800
+1: L66
+Current number: 634
+1: L55
+Current number: 479
+1: L96
+Current number: 283
+1: R17
+Current number: 200
+1: R4
+Current number: 104
+1: L842
+Current number: -638
+1: L62
+Current number: -600
+1: R53
+Current number: -447
+1: R347
+Current number: 0
+1: L250
+Current number: -150
+1: R50
+Current number: 0
+1: R34
+Current number: 34
+1: R666
+Current number: 600
+1: R4
+Current number: 504
+1: L37
+Current number: 367
+1: L724
+Current number: -257
+1: L43
+Current number: -200
+1: R10
+Current number: -90
+1: L110
+Current number: -100
+1: R1
+Current number: 1
+1: L1
+Current number: 0
+1: R331
+Current number: 231
+1: R435
+Current number: 566
+1: R38
+Current number: 504
+1: L739
+Current number: -135
+1: R82
+Current number: 47
+1: R78
+Current number: 25
+1: R75
+Current number: 0
+1: R1
+Current number: 1
+1: R99
+Current number: 0
+1: L29
+Current number: 71
+1: L28
+Current number: 43
+1: L906
+Current number: -763
+1: R53
+Current number: -610
+1: R30
+Current number: -480
+1: R93
+Current number: -287
+1: L19
+Current number: -206
+1: L27
+Current number: -133
+1: L67
+Current number: -100
+1: R49
+Current number: 49
+1: L76
+Current number: 73
+1: R15
+Current number: 88
+1: L56
+Current number: 32
+1: L76
+Current number: 56
+1: R11
+Current number: 67
+1: L70
+Current number: 97
+1: R213
+Current number: 210
+1: L10
+Current number: 100
+1: R97
+Current number: 97
+1: L438
+Current number: -241
+1: R55
+Current number: -86
+1: L22
+Current number: -8
+1: R8
+Current number: 0
+1: L42
+Current number: 58
+1: R12
+Current number: 70
+1: L270
+Current number: -100
+1: R82
+Current number: 82
+1: L279
+Current number: -97
+1: L694
+Current number: -691
+1: R70
+Current number: -521
+1: R41
+Current number: -380
+1: R74
+Current number: -206
+1: L41
+Current number: -147
+1: R71
+Current number: 24
+1: L96
+Current number: 28
+1: L294
+Current number: -166
+1: R59
+Current number: -7
+1: L693
+Current number: -600
+1: L17
+Current number: -517
+1: R815
+Current number: 198
+1: L99
+Current number: 99
+1: R19
+Current number: 18
+1: R82
+Current number: 0
+1: L81
+Current number: 19
+1: R32
+Current number: 51
+1: L78
+Current number: 73
+1: R27
+Current number: 0
+1: L36
+Current number: 64
+1: R17
+Current number: 81
+1: R97
+Current number: 78
+1: R32
+Current number: 10
+1: R90
+Current number: 0
+1: L85
+Current number: 15
+1: L15
+Current number: 0
+1: L24
+Current number: 76
+1: L76
+Current number: 0
+1: L489
+Current number: -389
+1: R34
+Current number: -255
+1: R355
+Current number: 0
+1: L99
+Current number: 1
+1: L943
+Current number: -842
+1: L180
+Current number: -922
+1: R22
+Current number: -800
+1: R38
+Current number: -662
+1: R62
+Current number: -500
+1: R39
+Current number: -361
+1: L239
+Current number: -500
+1: L54
+Current number: -454
+1: L67
+Current number: -421
+1: L65
+Current number: -386
+1: R81
+Current number: -205
+1: L21
+Current number: -126
+1: R254
+Current number: 28
+1: R30
+Current number: 58
+1: R39
+Current number: 97
+1: R992
+Current number: 989
+1: L54
+Current number: 835
+1: L182
+Current number: 553
+1: L453
+Current number: 0
+1: L31
+Current number: 69
+1: R31
+Current number: 0
+1: L18
+Current number: 82
+1: L2
+Current number: 80
+1: L539
+Current number: -359
+1: R4
+Current number: -255
+1: R71
+Current number: -84
+1: L968
+Current number: -952
+1: R52
+Current number: -800
+1: R68
+Current number: -632
+1: R32
+Current number: -500
+1: R10
+Current number: -390
+1: R665
+Current number: 175
+1: R86
+Current number: 161
+1: R31
+Current number: 92
+1: L83
+Current number: 9
+1: L82
+Current number: 27
+1: R73
+Current number: 0
+1: L81
+Current number: 19
+1: L19
+Current number: 0
+1: R714
+Current number: 614
+1: R86
+Current number: 600
+1: R96
+Current number: 596
+1: R4
+Current number: 500
+1: R653
+Current number: 1053
+1: L52
+Current number: 901
+1: R920
+Current number: 1721
+1: R379
+Current number: 2000
+1: R47
+Current number: 1947
+1: L8
+Current number: 1839
+1: L36
+Current number: 1703
+1: R46
+Current number: 1649
+1: L49
+Current number: 1500
+1: R32
+Current number: 1432
+1: L932
+Current number: 400
+1: R50
+Current number: 350
+1: L950
+Current number: -500
+1: L67
+Current number: -467
+1: R405
+Current number: 38
+1: L538
+Current number: -400
+1: L76
+Current number: -376
+1: L24
+Current number: -300
+1: R93
+Current number: -107
+1: R53
+Current number: 46
+1: L46
+Current number: 0
+1: R43
+Current number: 43
+1: L543
+Current number: -400
+1: R93
+Current number: -207
+1: R2
+Current number: -105
+1: R6
+Current number: 1
+1: R412
+Current number: 313
+1: L93
+Current number: 120
+1: L85
+Current number: 35
+1: R61
+Current number: 96
+1: L57
+Current number: 39
+1: R76
+Current number: 15
+1: L115
+Current number: 0
+1: L67
+Current number: 33
+1: L33
+Current number: 0
+1: L814
+Current number: -714
+1: L62
+Current number: -676
+1: L24
+Current number: -600
+1: R73
+Current number: -427
+1: L73
+Current number: -400
+1: L46
+Current number: -346
+1: L14
+Current number: -260
+1: R125
+Current number: -35
+1: R35
+Current number: 0
+1: R15
+Current number: 15
+1: L31
+Current number: 84
+1: L56
+Current number: 28
+1: L28
+Current number: 0
+1: R96
+Current number: 96
+1: L98
+Current number: 98
+1: R17
+Current number: 15
+1: L15
+Current number: 0
+1: R53
+Current number: 53
+1: R27
+Current number: 80
+1: L80
+Current number: 0
+1: L31
+Current number: 69
+1: R16
+Current number: 85
+1: L74
+Current number: 11
+1: L111
+Current number: 0
+1: L662
+Current number: -562
+1: R353
+Current number: -109
+1: R52
+Current number: 43
+1: R92
+Current number: 35
+1: L172
+Current number: -37
+1: L74
+Current number: -11
+1: R11
+Current number: 0
+1: L8
+Current number: 92
+1: L92
+Current number: 0
+1: L4
+Current number: 96
+1: R46
+Current number: 42
+1: R41
+Current number: 83
+1: L283
+Current number: -100
+1: R63
+Current number: 63
+1: R26
+Current number: 89
+1: L31
+Current number: 58
+1: L958
+Current number: -800
+1: R28
+Current number: -672
+1: R72
+Current number: -500
+1: L55
+Current number: -455
+1: R43
+Current number: -312
+1: R9
+Current number: -203
+1: L97
+Current number: -200
+1: L8
+Current number: -108
+1: R8
+Current number: 0
+1: R877
+Current number: 777
+1: L44
+Current number: 633
+1: R23
+Current number: 556
+1: L56
+Current number: 400
+1: R75
+Current number: 375
+1: L75
+Current number: 200
+1: L777
+Current number: -477
+1: R1
+Current number: -376
+1: L24
+Current number: -300
+1: L83
+Current number: -283
+1: L17
+Current number: -200
+1: R43
+Current number: -57
+1: R24
+Current number: 67
+1: R1
+Current number: 68
+1: L42
+Current number: 26
+1: L84
+Current number: 42
+1: R758
+Current number: 700
+1: L18
+Current number: 582
+1: R63
+Current number: 545
+1: R32
+Current number: 477
+1: R71
+Current number: 448
+1: L741
+Current number: -193
+1: R85
+Current number: -8
+1: R56
+Current number: 48
+1: R55
+Current number: 3
+1: L11
+Current number: 92
+1: L50
+Current number: 42
+1: L85
+Current number: 57
+1: R56
+Current number: 13
+1: R8
+Current number: 21
+1: R46
+Current number: 67
+1: L353
+Current number: -186
+1: L99
+Current number: -185
+1: L615
+Current number: -700
+1: L612
+Current number: -1212
+1: L28
+Current number: -1140
+1: L531
+Current number: -1571
+1: L29
+Current number: -1500
+1: R88
+Current number: -1312
+1: L88
+Current number: -1300
+1: R34
+Current number: -1166
+1: L69
+Current number: -1135
+1: R423
+Current number: -612
+1: L84
+Current number: -596
+1: L34
+Current number: -530
+1: R30
+Current number: -400
+1: L42
+Current number: -342
+1: R51
+Current number: -191
+1: L81
+Current number: -172
+1: R61
+Current number: -11
+1: R233
+Current number: 122
+1: R52
+Current number: 74
+1: L374
+Current number: -200
+1: R85
+Current number: -15
+1: L20
+Current number: 65
+1: L32
+Current number: 33
+1: L4
+Current number: 29
+1: R83
+Current number: 12
+1: L471
+Current number: -359
+1: R46
+Current number: -213
+1: L6
+Current number: -119
+1: R87
+Current number: 68
+1: R32
+Current number: 0
+1: R55
+Current number: 55
+1: L618
+Current number: -463
+1: L39
+Current number: -402
+1: L98
+Current number: -400
+1: L29
+Current number: -329
+1: L41
+Current number: -270
+1: R25
+Current number: -145
+1: L19
+Current number: -64
+1: L936
+Current number: -900
+1: L39
+Current number: -839
+1: L61
+Current number: -800
+1: L61
+Current number: -761
+1: L36
+Current number: -697
+1: L303
+Current number: -900
+1: R44
+Current number: -756
+1: L2
+Current number: -658
+1: L97
+Current number: -655
+1: R41
+Current number: -514
+1: R35
+Current number: -379
+1: L21
+Current number: -300
+1: L72
+Current number: -272
+1: R72
+Current number: -100
+1: L85
+Current number: -85
+1: L266
+Current number: -251
+1: R33
+Current number: -118
+1: R18
+Current number: 0
+1: L260
+Current number: -160
+1: R91
+Current number: 31
+1: L9
+Current number: 22
+1: R58
+Current number: 80
+1: R825
+Current number: 805
+1: L705
+Current number: 0
+1: R92
+Current number: 92
+1: R29
+Current number: 21
+1: R20
+Current number: 41
+1: R59
+Current number: 0
+1: R69
+Current number: 69
+1: L61
+Current number: 8
+1: R28
+Current number: 36
+1: R86
+Current number: 22
+1: R10
+Current number: 32
+1: R507
+Current number: 439
+1: R61
+Current number: 400
+1: L4
+Current number: 296
+1: R504
+Current number: 700
+1: L227
+Current number: 373
+1: L22
+Current number: 251
+1: R49
+Current number: 200
+1: R54
+Current number: 154
+1: L20
+Current number: 34
+1: L2
+Current number: 32
+1: R467
+Current number: 399
+1: L83
+Current number: 216
+1: L16
+Current number: 100
+1: L7
+Current number: 93
+1: L93
+Current number: 0
+1: R99
+Current number: 99
+1: R61
+Current number: 60
+1: R23
+Current number: 83
+1: L85
+Current number: 98
+1: R19
+Current number: 17
+1: L95
+Current number: 22
+1: L94
+Current number: 28
+1: L28
+Current number: 0
+1: R273
+Current number: 173
+1: R53
+Current number: 126
+1: R74
+Current number: 100
+1: R69
+Current number: 69
+1: L605
+Current number: -436
+1: L180
+Current number: -516
+1: R17
+Current number: -399
+1: R4
+Current number: -295
+1: R13
+Current number: -182
+1: L36
+Current number: -118
+1: L82
+Current number: -100
+1: L66
+Current number: -66
+1: L1
+Current number: 33
+1: R67
+Current number: 0
+1: R97
+Current number: 97
+1: R34
+Current number: 31
+1: L7
+Current number: 24
+1: R276
+Current number: 200
+1: L328
+Current number: -28
+1: L72
+Current number: 0
+1: L44
+Current number: 56
+1: R87
+Current number: 43
+1: R69
+Current number: 12
+1: L12
+Current number: 0
+1: L46
+Current number: 54
+1: L60
+Current number: 94
+1: R7
+Current number: 1
+1: L72
+Current number: 29
+1: R69
+Current number: 98
+1: L60
+Current number: 38
+1: R83
+Current number: 21
+1: R360
+Current number: 281
+1: L54
+Current number: 127
+1: R76
+Current number: 103
+1: L3
+Current number: 0
+1: R54
+Current number: 54
+1: R46
+Current number: 0
+1: R6
+Current number: 6
+1: L74
+Current number: 32
+1: L32
+Current number: 0
+1: R211
+Current number: 111
+1: R89
+Current number: 100
+1: R63
+Current number: 63
+1: L63
+Current number: 0
+1: L59
+Current number: 41
+1: L39
+Current number: 2
+1: L5
+Current number: 97
+1: R3
+Current number: 0
+1: R19
+Current number: 19
+1: L64
+Current number: 55
+1: L90
+Current number: 65
+1: L3
+Current number: 62
+1: L25
+Current number: 37
+1: L37
+Current number: 0
+1: R52
+Current number: 52
+1: R48
+Current number: 0
+1: R299
+Current number: 199
+1: L85
+Current number: 14
+1: L14
+Current number: 0
+1: R17
+Current number: 17
+1: L17
+Current number: 0
+1: L4
+Current number: 96
+1: L57
+Current number: 39
+1: L90
+Current number: 49
+1: L61
+Current number: 88
+1: L86
+Current number: 2
+1: R98
+Current number: 0
+1: L79
+Current number: 21
+1: R10
+Current number: 31
+1: L331
+Current number: -200
+1: L322
+Current number: -422
+1: R733
+Current number: 211
+1: L611
+Current number: -300
+1: R28
+Current number: -172
+1: R298
+Current number: 26
+1: R74
+Current number: 0
+1: L92
+Current number: 8
+1: L96
+Current number: 12
+1: L48
+Current number: 64
+1: R40
+Current number: 4
+1: R76
+Current number: 80
+1: L80
+Current number: 0
+1: R39
+Current number: 39
+1: L24
+Current number: 15
+1: R96
+Current number: 11
+1: L11
+Current number: 0
+1: R7
+Current number: 7
+1: R93
+Current number: 0
+1: R860
+Current number: 760
+1: L78
+Current number: 582
+1: L444
+Current number: 38
+1: R62
+Current number: 0
+1: L661
+Current number: -561
+1: R85
+Current number: -376
+1: L63
+Current number: -339
+1: R62
+Current number: -177
+1: R77
+Current number: 0
+1: L89
+Current number: 11
+1: R19
+Current number: 30
+1: L30
+Current number: 0
+1: L678
+Current number: -578
+1: L22
+Current number: -500
+1: R69
+Current number: -331
+1: L64
+Current number: -295
+1: L5
+Current number: -200
+1: L46
+Current number: -146
+1: L78
+Current number: -124
+1: L876
+Current number: -900
+1: R18
+Current number: -782
+1: L18
+Current number: -700
+1: L414
+Current number: -1014
+1: R88
+Current number: -826
+1: R626
+Current number: -100
+1: L70
+Current number: -70
+1: R713
+Current number: 543
+1: L53
+Current number: 390
+1: R210
+Current number: 500
+1: R94
+Current number: 494
+1: L394
+Current number: 0
+1: L5
+Current number: 95
+1: R953
+Current number: 948
+1: L48
+Current number: 800
+1: L410
+Current number: 290
+1: L269
+Current number: 21
+1: R872
+Current number: 793
+1: R70
+Current number: 763
+1: R37
+Current number: 700
+1: L49
+Current number: 551
+1: R766
+Current number: 1217
+1: L11
+Current number: 1106
+1: R35
+Current number: 1041
+1: L17
+Current number: 924
+1: R650
+Current number: 1474
+1: L474
+Current number: 900
+1: R75
+Current number: 875
+1: R428
+Current number: 1203
+1: R883
+Current number: 1986
+1: L86
+Current number: 1800
+1: L241
+Current number: 1459
+1: R24
+Current number: 1383
+1: R75
+Current number: 1358
+1: L68
+Current number: 1190
+1: L97
+Current number: 993
+1: R17
+Current number: 910
+1: R90
+Current number: 900
+1: L84
+Current number: 716
+1: L16
+Current number: 600
+1: R17
+Current number: 517
+1: L80
+Current number: 337
+1: L37
+Current number: 200
+1: R282
+Current number: 382
+1: R107
+Current number: 389
+1: R44
+Current number: 333
+1: L26
+Current number: 207
+1: R77
+Current number: 184
+1: L84
+Current number: 0
+1: R133
+Current number: 33
+1: R67
+Current number: 0
+1: R32
+Current number: 32
+1: R331
+Current number: 263
+1: L63
+Current number: 100
+1: R86
+Current number: 86
+1: R23
+Current number: 9
+1: R91
+Current number: 0
+1: R95
+Current number: 95
+1: R39
+Current number: 34
+1: R92
+Current number: 26
+1: R202
+Current number: 128
+1: L35
+Current number: 93
+1: L62
+Current number: 31
+1: R72
+Current number: 3
+1: L10
+Current number: 93
+1: R124
+Current number: 117
+1: L33
+Current number: 84
+1: R16
+Current number: 0
+1: R402
+Current number: 302
+1: L98
+Current number: 104
+1: R96
+Current number: 100
+1: L246
+Current number: -46
+1: L49
+Current number: 5
+1: R95
+Current number: 0
+1: R12
+Current number: 12
+1: L312
+Current number: -200
+1: R474
+Current number: 174
+1: R25
+Current number: 99
+1: L99
+Current number: 0
+1: L16
+Current number: 84
+1: L96
+Current number: 88
+1: R56
+Current number: 44
+1: R98
+Current number: 42
+1: L42
+Current number: 0
+1: L73
+Current number: 27
+1: R354
+Current number: 281
+1: L23
+Current number: 158
+1: R32
+Current number: 90
+1: L81
+Current number: 9
+1: R6
+Current number: 15
+1: R32
+Current number: 47
+1: R10
+Current number: 57
+1: L193
+Current number: -36
+1: R36
+Current number: 0
+1: L40
+Current number: 60
+1: L60
+Current number: 0
+1: L61
+Current number: 39
+1: R25
+Current number: 64
+1: L8
+Current number: 56
+1: R37
+Current number: 93
+1: R76
+Current number: 69
+1: L69
+Current number: 0
+1: L84
+Current number: 16
+1: L71
+Current number: 45
+1: L25
+Current number: 20
+1: R80
+Current number: 0
+1: L32
+Current number: 68
+1: R404
+Current number: 372
+1: L172
+Current number: 100
+1: R810
+Current number: 810
+1: L14
+Current number: 696
+1: L45
+Current number: 551
+1: L51
+Current number: 400
+1: R85
+Current number: 385
+1: R62
+Current number: 347
+1: R11
+Current number: 258
+1: L98
+Current number: 60
+1: L38
+Current number: 22
+1: R3
+Current number: 25
+1: R14
+Current number: 39
+1: L39
+Current number: 0
+1: L20
+Current number: 80
+1: L30
+Current number: 50
+1: R62
+Current number: 12
+1: R88
+Current number: 0
+1: L56
+Current number: 44
+1: L67
+Current number: 77
+1: R223
+Current number: 200
+1: R5
+Current number: 105
+1: L5
+Current number: 0
+1: R3
+Current number: 3
+1: R97
+Current number: 0
+1: L92
+Current number: 8
+1: R543
+Current number: 451
+1: L551
+Current number: 0
+1: R37
+Current number: 37
+1: R33
+Current number: 70
+1: R30
+Current number: 0
+1: R2
+Current number: 2
+1: L93
+Current number: 9
+1: L109
+Current number: 0
+1: L89
+Current number: 11
+1: L31
+Current number: 80
+1: R71
+Current number: 51
+1: R49
+Current number: 0
+1: L176
+Current number: -76
+1: L61
+Current number: -37
+1: L684
+Current number: -621
+1: R21
+Current number: -500
+1: L89
+Current number: -489
+1: L22
+Current number: -411
+1: L89
+Current number: -400
+1: L202
+Current number: -502
+1: R2
+Current number: -400
+1: R35
+Current number: -265
+1: R537
+Current number: 172
+1: R99
+Current number: 171
+1: R29
+Current number: 100
+1: L642
+Current number: -442
+1: L95
+Current number: -437
+1: R773
+Current number: 236
+1: R764
+Current number: 900
+1: R174
+Current number: 974
+1: L74
+Current number: 800
+1: L104
+Current number: 596
+1: R853
+Current number: 1349
+1: R163
+Current number: 1412
+1: R66
+Current number: 1378
+1: R78
+Current number: 1356
+1: L56
+Current number: 1200
+1: R48
+Current number: 1148
+1: L25
+Current number: 1023
+1: R77
+Current number: 1000
+1: L56
+Current number: 844
+1: R56
+Current number: 800
+1: L18
+Current number: 682
+1: R618
+Current number: 1200
+1: L610
+Current number: 490
+1: L90
+Current number: 300
+1: L934
+Current number: -534
+1: R27
+Current number: -407
+1: L13
+Current number: -320
+1: R20
+Current number: -200
+1: R31
+Current number: -69
+1: L76
+Current number: -45
+1: R45
+Current number: 0
+1: L91
+Current number: 9
+1: L72
+Current number: 37
+1: R63
+Current number: 0
+1: L254
+Current number: -154
+1: L41
+Current number: -95
+1: L38
+Current number: -33
+1: L34
+Current number: 33
+1: L90
+Current number: 43
+1: R41
+Current number: 84
+1: L84
+Current number: 0
+1: R6
+Current number: 6
+1: L51
+Current number: 55
+1: L55
+Current number: 0
+1: R24
+Current number: 24
+1: R60
+Current number: 84
+1: R16
+Current number: 0
+1: L17
+Current number: 83
+1: R72
+Current number: 55
+1: L93
+Current number: 62
+1: R38
+Current number: 0
+1: L34
+Current number: 66
+1: R54
+Current number: 20
+1: L20
+Current number: 0
+1: R65
+Current number: 65
+1: R52
+Current number: 17
+1: R522
+Current number: 439
+1: L41
+Current number: 298
+1: R2
+Current number: 200
+1: R173
+Current number: 273
+1: R10
+Current number: 183
+1: L87
+Current number: 96
+1: L77
+Current number: 19
+1: L47
+Current number: 72
+1: L951
+Current number: -779
+1: R79
+Current number: -600
+1: L52
+Current number: -552
+1: R52
+Current number: -400
+1: R99
+Current number: -201
+1: R1
+Current number: -100
+1: R49
+Current number: 49
+1: L49
+Current number: 0
+1: R57
+Current number: 57
+1: L10
+Current number: 47
+1: R71
+Current number: 18
+1: R82
+Current number: 0
+1: L89
+Current number: 11
+1: L24
+Current number: 87
+1: L468
+Current number: -281
+1: R81
+Current number: -100
+1: L266
+Current number: -266
+1: R13
+Current number: -153
+1: L26
+Current number: -79
+1: R22
+Current number: 43
+1: R88
+Current number: 31
+1: R363
+Current number: 294
+1: L665
+Current number: -271
+1: L40
+Current number: -211
+1: R18
+Current number: -93
+1: L327
+Current number: -320
+1: R26
+Current number: -194
+1: L83
+Current number: -177
+1: L623
+Current number: -700
+1: R70
+Current number: -530
+1: R430
+Current number: 0
+1: L87
+Current number: 13
+1: L36
+Current number: 77
+1: L85
+Current number: 92
+1: L999
+Current number: -807
+1: L9
+Current number: -716
+1: R16
+Current number: -600
+1: L540
+Current number: -1040
+1: R40
+Current number: -900
+1: L42
+Current number: -842
+1: R21
+Current number: -721
+1: L288
+Current number: -909
+1: L710
+Current number: -1519
+1: L81
+Current number: -1500
+1: R74
+Current number: -1326
+1: L31
+Current number: -1257
+1: R4
+Current number: -1153
+1: R94
+Current number: -959
+1: L12
+Current number: -871
+1: L890
+Current number: -1661
+1: R861
+Current number: -700
+1: R84
+Current number: -516
+1: R16
+Current number: -400
+1: R77
+Current number: -223
+1: L77
+Current number: -200
+1: R456
+Current number: 156
+1: L46
+Current number: 10
+1: L10
+Current number: 0
+1: L8
+Current number: 92
+1: L92
+Current number: 0
+1: R71
+Current number: 71
+1: L32
+Current number: 39
+1: L55
+Current number: 84
+1: L57
+Current number: 27
+1: R95
+Current number: 22
+1: L22
+Current number: 0
+1: R52
+Current number: 52
+1: L57
+Current number: 95
+1: L152
+Current number: 43
+1: R66
+Current number: 9
+1: L87
+Current number: 22
+1: R78
+Current number: 0
+1: R92
+Current number: 92
+1: L91
+Current number: 1
+1: L99
+Current number: 2
+1: R96
+Current number: 98
+1: R234
+Current number: 232
+1: R68
+Current number: 200
+1: R82
+Current number: 182
+1: L72
+Current number: 10
+1: R42
+Current number: 52
+1: R63
+Current number: 15
+1: R444
+Current number: 359
+1: R41
+Current number: 300
+1: R86
+Current number: 286
+1: L223
+Current number: 63
+1: R199
+Current number: 162
+1: L956
+Current number: -694
+1: L88
+Current number: -682
+1: L37
+Current number: -619
+1: R53
+Current number: -466
+1: R752
+Current number: 186
+1: R59
+Current number: 145
+1: R56
+Current number: 101
+1: R99
+Current number: 100
+1: R858
+Current number: 858
+1: L58
+Current number: 700
+1: L905
+Current number: -105
+1: R73
+Current number: 68
+1: L778
+Current number: -610
+1: L43
+Current number: -553
+1: L70
+Current number: -523
+1: R66
+Current number: -357
+1: L43
+Current number: -300
+1: R71
+Current number: -129
+1: R37
+Current number: 8
+1: R92
+Current number: 0
+1: R20
+Current number: 20
+1: R80
+Current number: 0
+1: R953
+Current number: 853
+1: R47
+Current number: 800
+1: L55
+Current number: 645
+1: L70
+Current number: 475
+1: R2
+Current number: 377
+1: L77
+Current number: 200
+1: R333
+Current number: 433
+1: R491
+Current number: 824
+1: R76
+Current number: 800
+1: L88
+Current number: 612
+1: L35
+Current number: 477
+1: R86
+Current number: 463
+1: L99
+Current number: 264
+1: L64
+Current number: 100
+1: L83
+Current number: 17
+1: R56
+Current number: 73
+1: L47
+Current number: 26
+1: R74
+Current number: 0
+1: L14
+Current number: 86
+1: R414
+Current number: 400
+1: L33
+Current number: 267
+1: L21
+Current number: 146
+1: R10
+Current number: 56
+1: L256
+Current number: -100
+1: R58
+Current number: 58
+1: R37
+Current number: 95
+1: R5
+Current number: 0
+1: L929
+Current number: -829
+1: R461
+Current number: -268
+1: L277
+Current number: -445
+1: R77
+Current number: -268
+1: R68
+Current number: -100
+1: R6
+Current number: 6
+1: R94
+Current number: 0
+1: R68
+Current number: 68
+1: L67
+Current number: 1
+1: R651
+Current number: 552
+1: L21
+Current number: 431
+1: L5
+Current number: 326
+1: L379
+Current number: 47
+1: R53
+Current number: 0
+1: R89
+Current number: 89
+1: R42
+Current number: 31
+1: L44
+Current number: 87
+1: R95
+Current number: 82
+1: R1
+Current number: 83
+1: R61
+Current number: 44
+1: L44
+Current number: 0
+1: R96
+Current number: 96
+1: R41
+Current number: 37
+1: L37
+Current number: 0
+1: L244
+Current number: -144
+1: L356
+Current number: -400
+1: L57
+Current number: -357
+1: L43
+Current number: -300
+1: R63
+Current number: -137
+1: R37
+Current number: 0
+1: L66
+Current number: 34
+1: L34
+Current number: 0
+1: R56
+Current number: 56
+1: L56
+Current number: 0
+1: R47
+Current number: 47
+1: R11
+Current number: 58
+1: L88
+Current number: 70
+1: R35
+Current number: 5
+1: R6
+Current number: 11
+1: L96
+Current number: 15
+1: L52
+Current number: 63
+1: L63
+Current number: 0
+1: L43
+Current number: 57
+1: R4
+Current number: 61
+1: R96
+Current number: 57
+1: L290
+Current number: -133
+1: R1
+Current number: -32
+1: R91
+Current number: 59
+1: L40
+Current number: 19
+1: R281
+Current number: 200
+1: R30
+Current number: 130
+1: R88
+Current number: 118
+1: R82
+Current number: 100
+1: L86
+Current number: 14
+1: R86
+Current number: 0
+1: R73
+Current number: 73
+1: R27
+Current number: 0
+1: R72
+Current number: 72
+1: L62
+Current number: 10
+1: R3
+Current number: 13
+1: L613
+Current number: -500
+1: R44
+Current number: -356
+1: R56
+Current number: -200
+1: R87
+Current number: -13
+1: L76
+Current number: 11
+1: L11
+Current number: 0
+1: R670
+Current number: 570
+1: L270
+Current number: 200
+1: L7
+Current number: 93
+1: L995
+Current number: -802
+1: L935
+Current number: -1637
+1: L29
+Current number: -1566
+1: R61
+Current number: -1405
+1: L95
+Current number: -1400
+1: L316
+Current number: -1616
+1: L10
+Current number: -1526
+1: L61
+Current number: -1487
+1: L70
+Current number: -1457
+1: R217
+Current number: -1140
+1: L4
+Current number: -1044
+1: R672
+Current number: -272
+1: L28
+Current number: -200
+1: R45
+Current number: -55
+1: R55
+Current number: 0
+1: R79
+Current number: 79
+1: L34
+Current number: 45
+1: R55
+Current number: 0
+1: R1
+Current number: 1
+1: L6
+Current number: 95
+1: L27
+Current number: 68
+1: R32
+Current number: 0
+1: L34
+Current number: 66
+1: R34
+Current number: 0
+1: R69
+Current number: 69
+1: L84
+Current number: 85
+1: L73
+Current number: 12
+1: L12
+Current number: 0
+1: R36
+Current number: 36
+1: R755
+Current number: 691
+1: L548
+Current number: 43
+1: L106
+Current number: 37
+1: R969
+Current number: 906
+1: L534
+Current number: 272
+1: R28
+Current number: 200
+1: L49
+Current number: 51
+1: R29
+Current number: 80
+1: L59
+Current number: 21
+1: L521
+Current number: -400
+1: L88
+Current number: -388
+1: L97
+Current number: -385
+1: R679
+Current number: 194
+1: L67
+Current number: 27
+1: R14
+Current number: 41
+1: L95
+Current number: 46
+1: R54
+Current number: 0
+1: L64
+Current number: 36
+1: L85
+Current number: 51
+1: R49
+Current number: 0
+1: R13
+Current number: 13
+1: L13
+Current number: 0
+1: R30
+Current number: 30
+1: R87
+Current number: 17
+1: L55
+Current number: 62
+1: L62
+Current number: 0
+1: L986
+Current number: -886
+1: R86
+Current number: -700
+1: R59
+Current number: -541
+1: L82
+Current number: -523
+1: L19
+Current number: -442
+1: L19
+Current number: -361
+1: R61
+Current number: -200
+1: R22
+Current number: -78
+1: R3
+Current number: 25
+1: L740
+Current number: -615
+1: R30
+Current number: -485
+1: R885
+Current number: 300
+1: R6
+Current number: 206
+1: R79
+Current number: 185
+1: L51
+Current number: 34
+1: L34
+Current number: 0
+1: L59
+Current number: 41
+1: L69
+Current number: 72
+1: R28
+Current number: 0
+1: L726
+Current number: -626
+1: L99
+Current number: -625
+1: R49
+Current number: -476
+1: R26
+Current number: -350
+1: L47
+Current number: -297
+1: R154
+Current number: -43
+1: L74
+Current number: -17
+1: R10
+Current number: 93
+1: R26
+Current number: 19
+1: L19
+Current number: 0
+1: R40
+Current number: 40
+1: L40
+Current number: 0
+1: R105
+Current number: 5
+1: R883
+Current number: 788
+1: R95
+Current number: 783
+1: R94
+Current number: 777
+1: R23
+Current number: 700
+1: L22
+Current number: 578
+1: L56
+Current number: 422
+1: R61
+Current number: 383
+1: L83
+Current number: 200
+1: R615
+Current number: 715
+1: L15
+Current number: 600
+1: L92
+Current number: 408
+1: L8
+Current number: 300
+1: L622
+Current number: -222
+1: R20
+Current number: -102
+1: R60
+Current number: 58
+1: R79
+Current number: 37
+1: L74
+Current number: 63
+1: R668
+Current number: 631
+1: R69
+Current number: 600
+1: R57
+Current number: 557
+1: R247
+Current number: 704
+1: R96
+Current number: 700
+1: R9
+Current number: 609
+1: R90
+Current number: 599
+1: R1
+Current number: 500
+1: R73
+Current number: 473
+1: L77
+Current number: 296
+1: R89
+Current number: 285
+1: L538
+Current number: -153
+1: R24
+Current number: -29
+1: L71
+Current number: 0
+1: L97
+Current number: 3
+1: R97
+Current number: 0
+1: R167
+Current number: 67
+1: L967
+Current number: -800
+1: L94
+Current number: -794
+1: R67
+Current number: -627
+1: L73
+Current number: -600
+1: L49
+Current number: -549
+1: R157
+Current number: -292
+1: R37
+Current number: -155
+1: R35
+Current number: -20
+1: L80
+Current number: 0
+1: L18
+Current number: 82
+1: L609
+Current number: -427
+1: L73
+Current number: -400
+1: R690
+Current number: 190
+1: R38
+Current number: 128
+1: R39
+Current number: 67
+1: L67
+Current number: 0
+1: L80
+Current number: 20
+1: L31
+Current number: 89
+1: R11
+Current number: 0
+1: R57
+Current number: 57
+1: R443
+Current number: 400
+1: L471
+Current number: 29
+1: L29
+Current number: 0
+1: L65
+Current number: 35
+1: R116
+Current number: 51
+1: L95
+Current number: 56
+1: L56
+Current number: 0
+1: L15
+Current number: 85
+1: L85
+Current number: 0
+1: R314
+Current number: 214
+1: R86
+Current number: 200
+1: R60
+Current number: 160
+1: R640
+Current number: 700
+1: L59
+Current number: 541
+1: L937
+Current number: -296
+1: R30
+Current number: -166
+1: R79
+Current number: 13
+1: L13
+Current number: 0
+1: R83
+Current number: 83
+1: L51
+Current number: 32
+1: L1
+Current number: 31
+1: R69
+Current number: 0
+1: R13
+Current number: 13
+1: L29
+Current number: 84
+1: R16
+Current number: 0
+1: L923
+Current number: -823
+1: L63
+Current number: -786
+1: R86
+Current number: -600
+1: L614
+Current number: -1114
+1: R471
+Current number: -543
+1: L8
+Current number: -451
+1: R51
+Current number: -300
+1: R76
+Current number: -124
+1: L76
+Current number: -100
+1: R16
+Current number: 16
+1: R38
+Current number: 54
+1: L54
+Current number: 0
+1: R34
+Current number: 34
+1: R53
+Current number: 87
+1: R13
+Current number: 0
+1: R6
+Current number: 6
+1: L41
+Current number: 65
+1: L16
+Current number: 49
+1: L50
+Current number: 99
+1: L99
+Current number: 0
+1: L87
+Current number: 13
+1: L49
+Current number: 64
+1: R51
+Current number: 15
+1: L1
+Current number: 14
+1: R886
+Current number: 800
+1: R552
+Current number: 1252
+1: L52
+Current number: 1100
+1: R50
+Current number: 1050
+1: R50
+Current number: 1000
+1: R7
+Current number: 907
+1: R7
+Current number: 814
+1: R86
+Current number: 800
+1: L58
+Current number: 642
+1: R58
+Current number: 600
+1: R77
+Current number: 577
+1: L77
+Current number: 400
+1: R20
+Current number: 320
+1: L478
+Current number: -58
+1: L55
+Current number: -13
+1: L126
+Current number: -39
+1: L40
+Current number: 21
+1: L45
+Current number: 76
+1: L90
+Current number: 86
+1: R14
+Current number: 0
+1: L80
+Current number: 20
+1: L79
+Current number: 41
+1: L41
+Current number: 0
+1: R902
+Current number: 802
+1: L97
+Current number: 605
+1: L4
+Current number: 501
+1: L93
+Current number: 308
+1: R92
+Current number: 300
+1: R2
+Current number: 202
+1: R22
+Current number: 124
+1: R76
+Current number: 100
+1: R77
+Current number: 77
+1: L75
+Current number: 2
+1: L27
+Current number: 75
+1: R21
+Current number: 96
+1: L96
+Current number: 0
+1: R126
+Current number: 26
+1: R97
+Current number: 23
+1: L47
+Current number: 76
+1: R20
+Current number: 96
+1: R4
+Current number: 0
+1: L484
+Current number: -384
+1: R484
+Current number: 0
+1: L87
+Current number: 13
+1: L13
+Current number: 0
+1: L37
+Current number: 63
+1: R1
+Current number: 64
+1: L23
+Current number: 41
+1: L41
+Current number: 0
+1: L49
+Current number: 51
+1: L37
+Current number: 14
+1: R57
+Current number: 71
+1: R54
+Current number: 25
+1: L25
+Current number: 0
+1: R62
+Current number: 62
+1: L39
+Current number: 23
+1: R77
+Current number: 0
+1: R58
+Current number: 58
+1: R442
+Current number: 400
+1: L4
+Current number: 296
+1: L896
+Current number: -500
+1: L475
+Current number: -875
+1: L25
+Current number: -800
+1: R38
+Current number: -662
+1: R62
+Current number: -500
+1: L49
+Current number: -449
+1: R39
+Current number: -310
+1: R429
+Current number: 19
+1: R36
+Current number: 55
+1: R62
+Current number: 17
+1: L66
+Current number: 51
+1: L750
+Current number: -599
+1: L1
+Current number: -500
+1: R60
+Current number: -340
+1: R98
+Current number: -142
+1: L72
+Current number: -114
+1: R14
+Current number: 0
+1: L43
+Current number: 57
+1: L57
+Current number: 0
+1: R24
+Current number: 24
+1: R76
+Current number: 0
+1: L757
+Current number: -657
+1: L42
+Current number: -599
+1: L39
+Current number: -538
+1: R26
+Current number: -412
+1: R64
+Current number: -248
+1: R48
+Current number: -100
+1: L85
+Current number: -85
+1: R57
+Current number: 72
+1: R85
+Current number: 57
+1: R43
+Current number: 0
+1: L55
+Current number: 45
+1: L45
+Current number: 0
+1: R9
+Current number: 9
+1: R591
+Current number: 500
+1: L97
+Current number: 303
+1: R16
+Current number: 219
+1: L236
+Current number: 83
+1: L383
+Current number: -200
+1: R46
+Current number: -54
+1: L27
+Current number: 19
+1: L606
+Current number: -487
+1: L131
+Current number: -518
+1: L33
+Current number: -451
+1: L98
+Current number: -449
+1: R297
+Current number: -52
+1: R74
+Current number: 22
+1: R78
+Current number: 0
+1: R49
+Current number: 49
+1: R632
+Current number: 581
+1: L581
+Current number: 0
+1: R299
+Current number: 199
+1: L99
+Current number: 0
+1: L12
+Current number: 88
+1: L94
+Current number: 94
+1: L93
+Current number: 1
+1: L38
+Current number: 63
+1: R10
+Current number: 73
+1: L74
+Current number: 99
+1: L739
+Current number: -540
+1: R340
+Current number: -100
+1: R26
+Current number: 26
+1: R74
+Current number: 0
+1: R27
+Current number: 27
+1: L27
+Current number: 0
+1: L13
+Current number: 87
+1: L88
+Current number: 99
+1: R693
+Current number: 692
+1: L46
+Current number: 546
+1: L37
+Current number: 409
+1: L211
+Current number: 98
+1: R90
+Current number: 88
+1: L17
+Current number: 71
+1: L60
+Current number: 11
+1: L511
+Current number: -400
+1: R802
+Current number: 302
+1: R40
+Current number: 242
+1: R78
+Current number: 220
+1: R62
+Current number: 182
+1: R22
+Current number: 104
+1: L70
+Current number: 34
+1: L82
+Current number: 52
+1: L52
+Current number: 0
+1: L26
+Current number: 74
+1: L74
+Current number: 0
+1: L90
+Current number: 10
+1: L804
+Current number: -694
+1: R670
+Current number: 76
+1: L76
+Current number: 0
+1: L20
+Current number: 80
+1: L4
+Current number: 76
+1: L76
+Current number: 0
+1: R26
+Current number: 26
+1: R74
+Current number: 0
+1: L39
+Current number: 61
+1: R303
+Current number: 264
+1: L89
+Current number: 75
+1: R42
+Current number: 17
+1: R582
+Current number: 499
+1: R27
+Current number: 426
+1: R74
+Current number: 400
+1: R960
+Current number: 1260
+1: L44
+Current number: 1116
+1: R84
+Current number: 1100
+1: L34
+Current number: 966
+1: R79
+Current number: 945
+1: R55
+Current number: 900
+1: R936
+Current number: 1736
+1: L243
+Current number: 1393
+1: R7
+Current number: 1300
+1: L290
+Current number: 910
+1: R90
+Current number: 900
+1: L158
+Current number: 642
+1: L87
+Current number: 455
+1: L49
+Current number: 306
+1: R321
+Current number: 527
+1: R61
+Current number: 488
+1: R573
+Current number: 961
+1: L24
+Current number: 837
+1: R154
+Current number: 891
+1: L83
+Current number: 708
+1: R733
+Current number: 1341
+1: L41
+Current number: 1200
+1: R221
+Current number: 1321
+1: R55
+Current number: 1276
+1: R96
+Current number: 1272
+1: R69
+Current number: 1241
+1: L7
+Current number: 1134
+1: R966
+Current number: 2000
+1: L49
+Current number: 1851
+1: R49
+Current number: 1800
+1: L31
+Current number: 1669
+1: L44
+Current number: 1525
+1: R75
+Current number: 1500
+1: L22
+Current number: 1378
+1: L78
+Current number: 1200
+1: L219
+Current number: 881
+1: R82
+Current number: 863
+1: R37
+Current number: 800
+1: L181
+Current number: 519
+1: L19
+Current number: 400
+1: R30
+Current number: 330
+1: L16
+Current number: 214
+1: R86
+Current number: 200
+1: L95
+Current number: 5
+1: L89
+Current number: 16
+1: R34
+Current number: 50
+1: L3
+Current number: 47
+1: L647
+Current number: -500
+1: R65
+Current number: -335
+1: R76
+Current number: -159
+1: R59
+Current number: 0
+1: L72
+Current number: 28
+1: L3
+Current number: 25
+1: R75
+Current number: 0
+1: L48
+Current number: 52
+1: R62
+Current number: 14
+1: L14
+Current number: 0
+1: L627
+Current number: -527
+1: L895
+Current number: -1322
+1: R18
+Current number: -1204
+1: L96
+Current number: -1200
+1: R18
+Current number: -1082
+1: L18
+Current number: -1000
+1: R30
+Current number: -870
+1: R74
+Current number: -696
+1: L304
+Current number: -900
+1: L77
+Current number: -877
+1: R96
+Current number: -681
+1: R55
+Current number: -526
+1: R855
+Current number: 229
+1: R98
+Current number: 227
+1: L3
+Current number: 124
+1: L41
+Current number: 83
+1: R43
+Current number: 26
+1: R518
+Current number: 444
+1: L43
+Current number: 301
+1: R20
+Current number: 221
+1: L21
+Current number: 100
+1: R82
+Current number: 82
+1: R18
+Current number: 0
+1: L84
+Current number: 16
+1: R7
+Current number: 23
+1: L71
+Current number: 52
+1: R30
+Current number: 82
+1: L82
+Current number: 0
+1: L35
+Current number: 65
+1: R64
+Current number: 29
+1: L21
+Current number: 8
+1: L40
+Current number: 68
+1: R38
+Current number: 6
+1: R94
+Current number: 0
+1: R746
+Current number: 646
+1: L22
+Current number: 524
+1: L23
+Current number: 401
+1: R50
+Current number: 351
+1: R24
+Current number: 275
+1: R74
+Current number: 249
+1: L85
+Current number: 64
+1: L5
+Current number: 59
+1: R75
+Current number: 34
+1: R66
+Current number: 0
+1: L1
+Current number: 99
+1: L56
+Current number: 43
+1: R5
+Current number: 48
+1: L68
+Current number: 80
+1: R199
+Current number: 179
+1: R2
+Current number: 81
+1: R19
+Current number: 0
+1: R80
+Current number: 80
+1: L18
+Current number: 62
+1: L47
+Current number: 15
+1: L15
+Current number: 0
+1: R54
+Current number: 54
+1: L54
+Current number: 0
+1: R48
+Current number: 48
+1: R52
+Current number: 0
+1: R29
+Current number: 29
+1: L21
+Current number: 8
+1: R837
+Current number: 745
+1: L45
+Current number: 600
+1: L4
+Current number: 496
+1: L596
+Current number: 0
+1: L93
+Current number: 7
+1: L76
+Current number: 31
+1: L531
+Current number: -400
+1: R65
+Current number: -235
+1: L65
+Current number: -200
+1: L17
+Current number: -117
+1: R17
+Current number: 0
+1: R699
+Current number: 599
+1: L99
+Current number: 400
+1: R10
+Current number: 310
+1: R79
+Current number: 289
+1: R80
+Current number: 269
+1: R31
+Current number: 200
+1: L66
+Current number: 34
+1: L46
+Current number: 88
+1: L88
+Current number: 0
+1: R21
+Current number: 21
+1: L77
+Current number: 44
+1: R56
+Current number: 0
+1: R45
+Current number: 45
+1: R84
+Current number: 29
+1: R74
+Current number: 3
+1: L3
+Current number: 0
+1: L545
+Current number: -445
+1: L55
+Current number: -400
+1: R81
+Current number: -219
+1: R19
+Current number: -100
+1: L80
+Current number: -80
+1: L92
+Current number: -72
+1: R39
+Current number: 67
+1: L28
+Current number: 39
+1: R61
+Current number: 0
+1: R323
+Current number: 223
+1: L58
+Current number: 65
+1: L865
+Current number: -700
+1: R390
+Current number: -210
+1: R41
+Current number: -69
+1: R360
+Current number: 191
+1: R55
+Current number: 146
+1: R472
+Current number: 518
+1: R82
+Current number: 500
+1: L94
+Current number: 306
+1: L206
+Current number: 0
+1: L52
+Current number: 48
+1: R52
+Current number: 0
+1: L20
+Current number: 80
+1: R57
+Current number: 37
+1: R42
+Current number: 79
+1: L479
+Current number: -300
+1: L140
+Current number: -340
+1: R26
+Current number: -214
+1: R122
+Current number: 8
+1: R992
+Current number: 900
+1: R352
+Current number: 1152
+1: R48
+Current number: 1100
+1: L45
+Current number: 955
+1: L55
+Current number: 800
+1: L59
+Current number: 641
+1: L41
+Current number: 500
+1: R54
+Current number: 454
+1: R46
+Current number: 400
+1: R21
+Current number: 321
+1: L25
+Current number: 196
+1: R68
+Current number: 164
+1: R265
+Current number: 329
+1: L896
+Current number: -467
+1: L33
+Current number: -400
+1: R7
+Current number: -293
+1: R12
+Current number: -181
+1: L19
+Current number: -100
+1: L55
+Current number: -55
+1: L45
+Current number: 0
+1: R2
+Current number: 2
+1: L2
+Current number: 0
+1: R73
+Current number: 73
+1: L773
+Current number: -600
+1: R696
+Current number: 96
+1: L96
+Current number: 0
+1: R14
+Current number: 14
+1: R86
+Current number: 0
+1: L40
+Current number: 60
+1: R40
+Current number: 0
+1: L46
+Current number: 54
+1: R728
+Current number: 682
+1: R79
+Current number: 661
+1: R39
+Current number: 600
+1: R173
+Current number: 673
+1: R27
+Current number: 600
+1: L53
+Current number: 447
+1: L58
+Current number: 289
+1: R58
+Current number: 247
+1: L69
+Current number: 78
+1: R47
+Current number: 25
+1: R675
+Current number: 600
+1: L746
+Current number: -46
+1: R20
+Current number: 74
+1: L10
+Current number: 64
+1: L86
+Current number: 78
+1: R15
+Current number: 93
+1: L58
+Current number: 35
+1: R59
+Current number: 94
+1: L94
+Current number: 0
+1: R44
+Current number: 44
+1: R87
+Current number: 31
+1: L89
+Current number: 42
+1: L42
+Current number: 0
+1: R57
+Current number: 57
+1: L38
+Current number: 19
+1: L98
+Current number: 21
+1: R58
+Current number: 79
+1: L79
+Current number: 0
+1: L57
+Current number: 43
+1: L83
+Current number: 60
+1: L34
+Current number: 26
+1: L52
+Current number: 74
+1: R56
+Current number: 30
+1: R18
+Current number: 48
+1: R56
+Current number: 4
+1: L32
+Current number: 72
+1: R67
+Current number: 39
+1: L39
+Current number: 0
+1: R941
+Current number: 841
+1: L41
+Current number: 700
+1: L58
+Current number: 542
+1: R58
+Current number: 500
+1: R64
+Current number: 464
+1: R980
+Current number: 1344
+1: L439
+Current number: 805
+1: L32
+Current number: 673
+1: L32
+Current number: 541
+1: L79
+Current number: 362
+1: R1
+Current number: 263
+1: L51
+Current number: 112
+1: R124
+Current number: 136
+1: L36
+Current number: 0
+1: R33
+Current number: 33
+1: L33
+Current number: 0
+1: R76
+Current number: 76
+1: R156
+Current number: 132
+1: R68
+Current number: 100
+1: R40
+Current number: 40
+1: L40
+Current number: 0
+1: R98
+Current number: 98
+1: L609
+Current number: -411
+1: R86
+Current number: -225
+1: L92
+Current number: -217
+1: L365
+Current number: -482
+1: R82
+Current number: -300
+1: R76
+Current number: -124
+1: R37
+Current number: 13
+1: L32
+Current number: 81
+1: R19
+Current number: 0
+1: R38
+Current number: 38
+1: L45
+Current number: 93
+1: R7
+Current number: 0
+1: L45
+Current number: 55
+1: L55
+Current number: 0
+1: L83
+Current number: 17
+1: R85
+Current number: 2
+1: R33
+Current number: 35
+1: R65
+Current number: 0
+1: L11
+Current number: 89
+1: L89
+Current number: 0
+1: L5
+Current number: 95
+1: R82
+Current number: 77
+1: R23
+Current number: 0
+1: R154
+Current number: 54
+1: L44
+Current number: 10
+1: L10
+Current number: 0
+1: L58
+Current number: 42
+1: R58
+Current number: 0
+1: L840
+Current number: -740
+1: R81
+Current number: -559
+1: R59
+Current number: -400
+1: R816
+Current number: 316
+1: R80
+Current number: 296
+1: R3
+Current number: 199
+1: R64
+Current number: 163
+1: L63
+Current number: 0
+1: R81
+Current number: 81
+1: L827
+Current number: -646
+1: L531
+Current number: -1077
+1: R74
+Current number: -903
+1: R3
+Current number: -800
+1: L601
+Current number: -1301
+1: R1
+Current number: -1200
+1: R17
+Current number: -1083
+1: L643
+Current number: -1626
+1: R89
+Current number: -1437
+1: R137
+Current number: -1200
+1: R538
+Current number: -562
+1: L938
+Current number: -1400
+1: L10
+Current number: -1310
+1: R50
+Current number: -1160
+1: L40
+Current number: -1100
+1: L19
+Current number: -1019
+1: L48
+Current number: -967
+1: R67
+Current number: -800
+1: L92
+Current number: -792
+1: R342
+Current number: -350
+1: L57
+Current number: -307
+1: R7
+Current number: -200
+1: R32
+Current number: -68
+1: R660
+Current number: 492
+1: R38
+Current number: 430
+1: L43
+Current number: 287
+1: R87
+Current number: 274
+1: R43
+Current number: 217
+1: L17
+Current number: 100
+1: R56
+Current number: 56
+1: L7
+Current number: 49
+1: L49
+Current number: 0
+1: R12
+Current number: 12
+1: R88
+Current number: 0
+1: L38
+Current number: 62
+1: L48
+Current number: 14
+1: R80
+Current number: 94
+1: L65
+Current number: 29
+1: L33
+Current number: 96
+1: L27
+Current number: 69
+1: R52
+Current number: 21
+1: L21
+Current number: 0
+1: R13
+Current number: 13
+1: R87
+Current number: 0
+1: R52
+Current number: 52
+1: L64
+Current number: 88
+1: L65
+Current number: 23
+1: L9
+Current number: 14
+1: R30
+Current number: 44
+1: L35
+Current number: 9
+1: R91
+Current number: 0
+1: L98
+Current number: 2
+1: R98
+Current number: 0
+1: L47
+Current number: 53
+1: R47
+Current number: 0
+1: R87
+Current number: 87
+1: R71
+Current number: 58
+1: R1
+Current number: 59
+1: L59
+Current number: 0
+1: L23
+Current number: 77
+1: R23
+Current number: 0
+1: R54
+Current number: 54
+1: L78
+Current number: 76
+1: L76
+Current number: 0
+1: L156
+Current number: -56
+1: R28
+Current number: 72
+1: R42
+Current number: 14
+1: R46
+Current number: 60
+1: L765
+Current number: -605
+1: R5
+Current number: -500
+1: R28
+Current number: -372
+1: R72
+Current number: -200
+1: L69
+Current number: -169
+1: L30
+Current number: -99
+1: L67
+Current number: -66
+1: R739
+Current number: 573
+1: R1
+Current number: 474
+1: L1
+Current number: 373
+1: R58
+Current number: 331
+1: L63
+Current number: 168
+1: L43
+Current number: 25
+1: R496
+Current number: 421
+1: L45
+Current number: 276
+1: R647
+Current number: 823
+1: R77
+Current number: 800
+1: R28
+Current number: 728
+1: R72
+Current number: 700
+1: L75
+Current number: 525
+1: L81
+Current number: 344
+1: L180
+Current number: 64
+1: R47
+Current number: 11
+1: L51
+Current number: 60
+1: R72
+Current number: 32
+1: R31
+Current number: 63
+1: R37
+Current number: 0
+1: R84
+Current number: 84
+1: R616
+Current number: 600
+1: L42
+Current number: 458
+1: L30
+Current number: 328
+1: R63
+Current number: 291
+1: R51
+Current number: 242
+1: R97
+Current number: 239
+1: R86
+Current number: 225
+1: L25
+Current number: 100
+1: R339
+Current number: 339
+1: L439
+Current number: 0
+1: R839
+Current number: 739
+1: R36
+Current number: 675
+1: R57
+Current number: 632
+1: L9
+Current number: 523
+1: R84
+Current number: 507
+1: L7
+Current number: 400
+1: L33
+Current number: 267
+1: R98
+Current number: 265
+1: R35
+Current number: 200
+1: L53
+Current number: 47
+1: L222
+Current number: -75
+1: R70
+Current number: 95
+1: R22
+Current number: 17
+1: L7
+Current number: 10
+1: R90
+Current number: 0
+1: L9
+Current number: 91
+1: R9
+Current number: 0
+1: R63
+Current number: 63
+1: L452
+Current number: -289
+1: L184
+Current number: -373
+1: R60
+Current number: -213
+1: L87
+Current number: -200
+1: R924
+Current number: 624
+1: R76
+Current number: 600
+1: L19
+Current number: 481
+1: L76
+Current number: 305
+1: L67
+Current number: 138
+1: L38
+Current number: 0
+1: L830
+Current number: -730
+1: R97
+Current number: -533
+1: R133
+Current number: -300
+1: R21
+Current number: -179
+1: L29
+Current number: -108
+1: R84
+Current number: 76
+1: L2
+Current number: 74
+1: R43
+Current number: 17
+1: L17
+Current number: 0
+1: L13
+Current number: 87
+1: L62
+Current number: 25
+1: L77
+Current number: 48
+1: R60
+Current number: 8
+1: R79
+Current number: 87
+1: L30
+Current number: 57
+1: L757
+Current number: -600
+1: R29
+Current number: -471
+1: L269
+Current number: -640
+1: R21
+Current number: -519
+1: R2
+Current number: -417
+1: R54
+Current number: -263
+1: R756
+Current number: 393
+1: L33
+Current number: 260
+1: L14
+Current number: 146
+1: R14
+Current number: 60
+1: L98
+Current number: 62
+1: L973
+Current number: -811
+1: L489
+Current number: -1200
+1: R98
+Current number: -1002
+1: R26
+Current number: -876
+1: L924
+Current number: -1700
+1: L21
+Current number: -1621
+1: L29
+Current number: -1550
+1: R5
+Current number: -1445
+1: L12
+Current number: -1357
+1: R57
+Current number: -1200
+1: R17
+Current number: -1083
+1: L67
+Current number: -1050
+1: R902
+Current number: -48
+1: L61
+Current number: -9
+1: R98
+Current number: 89
+1: R31
+Current number: 20
+1: L790
+Current number: -670
+1: L44
+Current number: -614
+1: L6
+Current number: -520
+1: R420
+Current number: 0
+1: R15
+Current number: 15
+1: L15
+Current number: 0
+1: L508
+Current number: -408
+1: L83
+Current number: -391
+1: L28
+Current number: -319
+1: R77
+Current number: -142
+1: R42
+Current number: 0
+1: L59
+Current number: 41
+1: L62
+Current number: 79
+1: L49
+Current number: 30
+1: R70
+Current number: 0
+1: L59
+Current number: 41
+1: R59
+Current number: 0
+1: R35
+Current number: 35
+1: L50
+Current number: 85
+1: L64
+Current number: 21
+1: R79
+Current number: 0
+1: R84
+Current number: 84
+1: R83
+Current number: 67
+1: R33
+Current number: 0
+1: R23
+Current number: 23
+1: R86
+Current number: 9
+1: L57
+Current number: 52
+1: L341
+Current number: -189
+1: L68
+Current number: -157
+1: L43
+Current number: -100
+1: R54
+Current number: 54
+1: L761
+Current number: -607
+1: R48
+Current number: -459
+1: L641
+Current number: -1000
+1: L23
+Current number: -923
+1: L69
+Current number: -892
+1: R79
+Current number: -713
+1: L53
+Current number: -666
+1: R66
+Current number: -500
+1: R864
+Current number: 264
+1: R24
+Current number: 188
+1: L21
+Current number: 67
+1: R44
+Current number: 11
+1: L559
+Current number: -448
+1: R48
+Current number: -300
+1: R47
+Current number: -153
+1: R39
+Current number: -14
+1: R3
+Current number: 89
+1: L508
+Current number: -319
+1: L978
+Current number: -1197
+1: R97
+Current number: -1000
+1: L38
+Current number: -938
+1: L96
+Current number: -934
+1: R34
+Current number: -800
+1: R19
+Current number: -681
+1: R81
+Current number: -500
+1: R83
+Current number: -317
+1: R17
+Current number: -200
+1: L70
+Current number: -170
+1: R70
+Current number: 0
+1: L44
+Current number: 56
+1: R99
+Current number: 55
+1: R18
+Current number: 73
+1: R32
+Current number: 5
+1: R95
+Current number: 0
+1: L10
+Current number: 90
+1: R96
+Current number: 86
+1: L52
+Current number: 34
+1: R64
+Current number: 98
+1: R2
+Current number: 0
+1: R7
+Current number: 7
+1: R93
+Current number: 0
+1: L15
+Current number: 85
+1: R15
+Current number: 0
+1: R45
+Current number: 45
+1: L45
+Current number: 0
+1: L59
+Current number: 41
+1: R80
+Current number: 21
+1: R63
+Current number: 84
+1: L8
+Current number: 76
+1: R38
+Current number: 14
+1: L81
+Current number: 33
+1: R7
+Current number: 40
+1: L40
+Current number: 0
+1: L9
+Current number: 91
+1: L64
+Current number: 27
+1: R73
+Current number: 0
+1: L12
+Current number: 88
+1: L88
+Current number: 0
+1: R54
+Current number: 54
+1: L54
+Current number: 0
+1: L563
+Current number: -463
+1: R59
+Current number: -304
+1: L46
+Current number: -250
+1: R50
+Current number: -100
+1: L436
+Current number: -436
+1: R36
+Current number: -300
+1: R91
+Current number: -109
+1: R609
+Current number: 400
+1: R15
+Current number: 315
+1: R21
+Current number: 236
+1: R215
+Current number: 351
+1: L75
+Current number: 176
+1: L79
+Current number: 97
+1: R10
+Current number: 7
+1: L1
+Current number: 6
+1: L52
+Current number: 54
+1: L54
+Current number: 0
+1: L40
+Current number: 60
+1: L350
+Current number: -190
+1: L91
+Current number: -181
+1: R28
+Current number: -53
+1: R53
+Current number: 0
+1: R78
+Current number: 78
+1: L27
+Current number: 51
+1: R80
+Current number: 31
+1: L73
+Current number: 58
+1: R46
+Current number: 4
+1: R9
+Current number: 13
+1: R81
+Current number: 94
+1: R52
+Current number: 46
+1: R2
+Current number: 48
+1: R36
+Current number: 84
+1: R56
+Current number: 40
+1: L84
+Current number: 56
+1: L181
+Current number: -25
+1: R85
+Current number: 60
+1: R40
+Current number: 0
+1: L21
+Current number: 79
+1: L84
+Current number: 95
+1: R5
+Current number: 0
+1: R674
+Current number: 574
+1: R389
+Current number: 863
+1: L85
+Current number: 678
+1: R89
+Current number: 667
+1: L947
+Current number: -180
+1: L3
+Current number: -83
+1: L17
+Current number: 0
+1: R58
+Current number: 58
+1: R22
+Current number: 80
+1: L80
+Current number: 0
+1: L346
+Current number: -246
+1: R295
+Current number: 49
+1: R73
+Current number: 22
+1: R87
+Current number: 9
+1: R19
+Current number: 28
+1: R39
+Current number: 67
+1: R55
+Current number: 22
+1: R76
+Current number: 98
+1: R2
+Current number: 0
+1: L45
+Current number: 55
+1: L996
+Current number: -841
+1: R76
+Current number: -665
+1: L94
+Current number: -659
+1: L88
+Current number: -647
+1: L80
+Current number: -627
+1: L73
+Current number: -600
+1: L169
+Current number: -669
+1: L31
+Current number: -600
+1: L64
+Current number: -564
+1: L36
+Current number: -500
+1: R857
+Current number: 257
+1: R4
+Current number: 161
+1: R39
+Current number: 100
+1: L64
+Current number: 36
+1: R21
+Current number: 57
+1: R89
+Current number: 46
+1: L46
+Current number: 0
+1: L65
+Current number: 35
+1: L17
+Current number: 18
+1: R82
+Current number: 0
+1: L97
+Current number: 3
+1: L46
+Current number: 57
+1: R43
+Current number: 0
+1: L20
+Current number: 80
+1: R80
+Current number: 60
+1: R489
+Current number: 449
+1: L49
+Current number: 300
+1: L69
+Current number: 131
+1: L5
+Current number: 26
+1: L85
+Current number: 41
+1: L41
+Current number: 0
+1: R74
+Current number: 74
+1: L14
+Current number: 60
+1: L60
+Current number: 0
+1: R23
+Current number: 23
+1: R52
+Current number: 75
+1: R12
+Current number: 87
+1: R50
+Current number: 37
+1: R33
+Current number: 70
+1: R46
+Current number: 16
+1: L16
+Current number: 0
+1: L14
+Current number: 86
+1: L86
+Current number: 0
+1: R30
+Current number: 30
+1: L30
+Current number: 0
+1: L76
+Current number: 24
+1: L24
+Current number: 0
+1: R83
+Current number: 83
+1: L50
+Current number: 33
+1: L45
+Current number: 88
+1: R12
+Current number: 0
+1: R79
+Current number: 79
+1: L679
+Current number: -500
+1: R33
+Current number: -367
+1: L33
+Current number: -300
+1: L58
+Current number: -258
+1: R29
+Current number: -129
+1: R29
+Current number: 0
+1: R68
+Current number: 68
+1: R98
+Current number: 66
+1: R934
+Current number: 900
+1: R438
+Current number: 1238
+1: R14
+Current number: 1152
+1: R48
+Current number: 1100
+1: R29
+Current number: 1029
+1: L42
+Current number: 887
+1: R33
+Current number: 820
+1: L20
+Current number: 700
+1: L150
+Current number: 450
+1: R7
+Current number: 357
+1: R99
+Current number: 356
+1: R17
+Current number: 273
+1: L72
+Current number: 101
+1: L1
+Current number: 0
+1: L69
+Current number: 31
+1: R38
+Current number: 69
+1: L69
+Current number: 0
+1: L55
+Current number: 45
+1: L45
+Current number: 0
+1: R82
+Current number: 82
+1: L82
+Current number: 0
+1: L92
+Current number: 8
+1: R65
+Current number: 73
+1: R57
+Current number: 30
+1: R70
+Current number: 0
+1: L12
+Current number: 88
+1: L88
+Current number: 0
+1: L667
+Current number: -567
+1: L33
+Current number: -500
+1: L977
+Current number: -1377
+1: L836
+Current number: -2113
+1: R13
+Current number: -2000
+1: R781
+Current number: -1119
+1: R19
+Current number: -1000
+1: L209
+Current number: -1109
+1: L649
+Current number: -1658
+1: R82
+Current number: -1476
+1: L16
+Current number: -1392
+1: L8
+Current number: -1300
+1: R996
+Current number: -204
+1: L28
+Current number: -132
+1: R32
+Current number: 0
+1: L94
+Current number: 6
+1: R256
+Current number: 162
+1: L62
+Current number: 0
+1: R510
+Current number: 410
+1: L10
+Current number: 300
+1: L965
+Current number: -565
+1: R29
+Current number: -436
+1: R41
+Current number: -295
+1: R31
+Current number: -164
+1: R36
+Current number: -28
+1: L49
+Current number: 23
+1: R66
+Current number: 89
+1: R2
+Current number: 91
+1: R97
+Current number: 88
+1: L688
+Current number: -500
+1: R42
+Current number: -358
+1: L96
+Current number: -354
+1: L46
+Current number: -300
+1: R92
+Current number: -108
+1: R965
+Current number: 757
+1: L57
+Current number: 600
+1: R17
+Current number: 517
+1: R683
+Current number: 1100
+1: R84
+Current number: 1084
+1: R16
+Current number: 1000
+1: L71
+Current number: 829
+1: L30
+Current number: 699
+1: L42
+Current number: 557
+1: L223
+Current number: 234
+1: R66
+Current number: 200
+1: L761
+Current number: -461
+1: R61
+Current number: -300
+1: L54
+Current number: -254
+1: L588
+Current number: -742
+1: L598
+Current number: -1240
+1: R40
+Current number: -1100
+1: L14
+Current number: -1014
+1: R89
+Current number: -825
+1: R25
+Current number: -700
+1: R92
+Current number: -508
+1: R65
+Current number: -343
+1: R43
+Current number: -200
+1: R29
+Current number: -71
+1: R152
+Current number: 81
+1: R19
+Current number: 0
+1: L54
+Current number: 46
+1: R54
+Current number: 0
+1: L6
+Current number: 94
+1: R18
+Current number: 12
+1: R278
+Current number: 190
+1: R10
+Current number: 100
+1: R84
+Current number: 84
+1: L84
+Current number: 0
+1: L5
+Current number: 95
+1: R5
+Current number: 0
+1: R62
+Current number: 62
+1: R91
+Current number: 53
+1: R47
+Current number: 0
+1: R6
+Current number: 6
+1: R94
+Current number: 0
+1: R40
+Current number: 40
+1: R86
+Current number: 26
+1: L869
+Current number: -743
+1: R43
+Current number: -600
+1: R169
+Current number: -331
+1: L22
+Current number: -253
+1: L77
+Current number: -230
+1: L194
+Current number: -324
+1: R24
+Current number: -200
+1: R569
+Current number: 269
+1: L69
+Current number: 100
+1: L91
+Current number: 9
+1: R91
+Current number: 0
+1: L51
+Current number: 49
+1: L90
+Current number: 59
+1: L159
+Current number: 0
+1: R70
+Current number: 70
+1: R299
+Current number: 269
+1: R9
+Current number: 178
+1: R19
+Current number: 97
+1: L97
+Current number: 0
+1: R61
+Current number: 61
+1: R39
+Current number: 0
+1: R152
+Current number: 52
+1: L89
+Current number: 63
+1: R179
+Current number: 142
+1: R22
+Current number: 64
+1: L64
+Current number: 0
+1: R673
+Current number: 573
+1: R27
+Current number: 500
+1: R74
+Current number: 474
+1: R26
+Current number: 400
+1: L6
+Current number: 294
+1: R16
+Current number: 210
+1: L10
+Current number: 100
+1: L46
+Current number: 54
+1: L93
+Current number: 61
+1: L368
+Current number: -207
+1: L40
+Current number: -147
+1: L53
+Current number: -100
+1: R90
+Current number: 90
+1: R27
+Current number: 17
+1: R72
+Current number: 89
+1: L89
+Current number: 0
+1: L4
+Current number: 96
+1: L96
+Current number: 0
+1: L84
+Current number: 16
+1: R28
+Current number: 44
+1: R60
+Current number: 4
+1: L4
+Current number: 0
+1: L6
+Current number: 94
+1: L42
+Current number: 52
+1: R49
+Current number: 1
+1: L1
+Current number: 0
+1: L819
+Current number: -719
+1: R19
+Current number: -600
+1: L198
+Current number: -698
+1: R78
+Current number: -520
+1: R35
+Current number: -385
+1: R685
+Current number: 200
+1: R31
+Current number: 131
+1: L31
+Current number: 0
+1: L43
+Current number: 57
+1: L39
+Current number: 18
+1: L18
+Current number: 0
+1: R11
+Current number: 11
+1: L838
+Current number: -727
+1: L78
+Current number: -705
+1: L952
+Current number: -1557
+1: R38
+Current number: -1419
+1: R19
+Current number: -1300
+1: L637
+Current number: -1837
+1: R36
+Current number: -1701
+1: L99
+Current number: -1700
+1: R232
+Current number: -1368
+1: R16
+Current number: -1252
+1: R381
+Current number: -771
+1: R889
+Current number: 18
+1: R76
+Current number: 94
+1: L76
+Current number: 18
+1: R882
+Current number: 800
+1: L753
+Current number: 47
+1: L54
+Current number: 93
+1: R68
+Current number: 61
+1: R48
+Current number: 9
+1: R91
+Current number: 0
+1: L17
+Current number: 83
+1: R38
+Current number: 21
+1: R79
+Current number: 0
+1: L2
+Current number: 98
+1: L75
+Current number: 23
+1: L97
+Current number: 26
+1: L89
+Current number: 37
+1: R59
+Current number: 96
+1: L32
+Current number: 64
+1: L73
+Current number: 91
+1: R68
+Current number: 59
+1: R41
+Current number: 0
+1: L50
+Current number: 50
+1: R50
+Current number: 0
+1: L33
+Current number: 67
+1: L926
+Current number: -759
+1: R43
+Current number: -616
+1: L39
+Current number: -555
+1: L86
+Current number: -541
+1: R41
+Current number: -400
+1: R74
+Current number: -226
+1: R614
+Current number: 288
+1: R12
+Current number: 200
+1: R35
+Current number: 135
+1: L90
+Current number: 45
+1: L28
+Current number: 17
+1: L216
+Current number: -99
+1: L18
+Current number: -17
+1: L86
+Current number: -3
+1: L86
+Current number: 11
+1: L63
+Current number: 48
+1: R40
+Current number: 88
+1: R12
+Current number: 0
+1: L237
+Current number: -137
+1: R59
+Current number: 22
+1: L822
+Current number: -700
+1: L639
+Current number: -1239
+1: R58
+Current number: -1081
+1: R72
+Current number: -909
+1: L91
+Current number: -900
+1: L13
+Current number: -813
+1: R49
+Current number: -664
+1: L46
+Current number: -610
+1: R62
+Current number: -448
+1: L17
+Current number: -365
+1: L26
+Current number: -291
+1: L67
+Current number: -258
+1: R98
+Current number: -60
+1: R293
+Current number: 133
+1: L54
+Current number: 79
+1: L365
+Current number: -186
+1: L54
+Current number: -140
+1: R17
+Current number: -23
+1: R64
+Current number: 41
+1: L41
+Current number: 0
+1: L76
+Current number: 24
+1: R93
+Current number: 17
+1: R38
+Current number: 55
+1: L83
+Current number: 72
+1: L72
+Current number: 0
+1: L88
+Current number: 12
+1: L12
+Current number: 0
+1: R72
+Current number: 72
+1: L17
+Current number: 55
+1: L55
+Current number: 0
+1: L51
+Current number: 49
+1: L89
+Current number: 60
+1: R81
+Current number: 41
+1: L41
+Current number: 0
+1: L86
+Current number: 14
+1: L14
+Current number: 0
+1: R31
+Current number: 31
+1: L31
+Current number: 0
+1: L55
+Current number: 45
+1: R57
+Current number: 2
+1: R33
+Current number: 35
+1: L70
+Current number: 65
+1: L65
+Current number: 0
+1: R661
+Current number: 561
+1: L36
+Current number: 425
+1: R37
+Current number: 362
+1: L2
+Current number: 260
+1: L75
+Current number: 85
+1: L574
+Current number: -389
+1: L24
+Current number: -313
+1: R13
+Current number: -200
+1: R18
+Current number: -82
+1: R82
+Current number: 0
+1: R49
+Current number: 49
+1: R81
+Current number: 30
+1: R596
+Current number: 526
+1: R74
+Current number: 500
+1: L5
+Current number: 395
+1: R205
+Current number: 500
+1: R9
+Current number: 409
+1: L48
+Current number: 261
+1: R42
+Current number: 203
+1: R97
+Current number: 200
+1: L99
+Current number: 1
+1: R786
+Current number: 687
+1: R913
+Current number: 1500
+1: R138
+Current number: 1538
+1: L38
+Current number: 1400
+1: L97
+Current number: 1203
+1: L5
+Current number: 1098
+1: L777
+Current number: 221
+1: L40
+Current number: 81
+1: R19
+Current number: 0
+1: L562
+Current number: -462
+1: L61
+Current number: -423
+1: L525
+Current number: -848
+1: R48
+Current number: -700
+1: L7
+Current number: -607
+1: L84
+Current number: -591
+1: L732
+Current number: -1223
+1: R23
+Current number: -1100
+1: L42
+Current number: -1042
+1: R99
+Current number: -843
+1: L832
+Current number: -1575
+1: L525
+Current number: -2000
+1: L405
+Current number: -2305
+1: R99
+Current number: -2106
+1: L35
+Current number: -2041
+1: R33
+Current number: -1908
+1: L9
+Current number: -1817
+1: L86
+Current number: -1803
+1: L5
+Current number: -1708
+1: R94
+Current number: -1514
+1: R217
+Current number: -1197
+1: L79
+Current number: -1176
+1: R58
+Current number: -1018
+1: R518
+Current number: -400
+1: R19
+Current number: -281
+1: L16
+Current number: -197
+1: R57
+Current number: -40
+1: R994
+Current number: 854
+1: R46
+Current number: 800
+1: R67
+Current number: 767
+1: R33
+Current number: 700
+1: R95
+Current number: 695
+1: L76
+Current number: 519
+1: L67
+Current number: 352
+1: L52
+Current number: 200
+1: L95
+Current number: 5
+1: L49
+Current number: 56
+1: L56
+Current number: 0
+1: R75
+Current number: 75
+1: L48
+Current number: 27
+1: R92
+Current number: 19
+1: L13
+Current number: 6
+1: R86
+Current number: 92
+1: R8
+Current number: 0
+1: L95
+Current number: 5
+1: R21
+Current number: 26
+1: R11
+Current number: 37
+1: L38
+Current number: 99
+1: R1
+Current number: 0
+1: R51
+Current number: 51
+1: R696
+Current number: 647
+1: R69
+Current number: 616
+1: R82
+Current number: 598
+1: R87
+Current number: 585
+1: R15
+Current number: 500
+1: L71
+Current number: 329
+1: L129
+Current number: 100
+1: R32
+Current number: 32
+1: L84
+Current number: 48
+1: R14
+Current number: 62
+1: R71
+Current number: 33
+1: R82
+Current number: 15
+1: L12
+Current number: 3
+1: L93
+Current number: 10
+1: R65
+Current number: 75
+1: L75
+Current number: 0
+1: L852
+Current number: -752
+1: R83
+Current number: -569
+1: L42
+Current number: -511
+1: R51
+Current number: -360
+1: R53
+Current number: -207
+1: L381
+Current number: -488
+1: R93
+Current number: -295
+1: R79
+Current number: -116
+1: R667
+Current number: 451
+1: L51
+Current number: 300
+1: R24
+Current number: 224
+1: R72
+Current number: 196
+1: R4
+Current number: 100
+1: L65
+Current number: 35
+1: L35
+Current number: 0
+1: R63
+Current number: 63
+1: L67
+Current number: 96
+1: L93
+Current number: 3
+1: L993
+Current number: -890
+1: R41
+Current number: -749
+1: R69
+Current number: -580
+1: R93
+Current number: -387
+1: L26
+Current number: -313
+1: L83
+Current number: -296
+1: R78
+Current number: -118
+1: L92
+Current number: -110
+1: L7
+Current number: -17
+1: L83
+Current number: 0
+1: R96
+Current number: 96
+1: R48
+Current number: 44
+1: R56
+Current number: 0
+1: R798
+Current number: 698
+1: L98
+Current number: 500
+1: L52
+Current number: 348
+1: R96
+Current number: 344
+1: R56
+Current number: 300
+1: R77
+Current number: 277
+1: L79
+Current number: 98
+1: R60
+Current number: 58
+1: R21
+Current number: 79
+1: R732
+Current number: 711
+1: R55
+Current number: 666
+1: R20
+Current number: 586
+1: R57
+Current number: 543
+1: L55
+Current number: 388
+1: R12
+Current number: 300
+1: L911
+Current number: -511
+1: L89
+Current number: -500
+1: L22
+Current number: -422
+1: L17
+Current number: -339
+1: R739
+Current number: 300
+1: L4
+Current number: 196
+1: L591
+Current number: -295
+1: L11
+Current number: -206
+1: R31
+Current number: -75
+1: R75
+Current number: 0
+1: L87
+Current number: 13
+1: R87
+Current number: 0
+1: L23
+Current number: 77
+1: R66
+Current number: 43
+1: R457
+Current number: 400
+1: L5
+Current number: 295
+1: L95
+Current number: 100
+1: L243
+Current number: -43
+1: R94
+Current number: 51
+1: L320
+Current number: -169
+1: R3
+Current number: -66
+1: R32
+Current number: 66
+1: R634
+Current number: 600
+1: R90
+Current number: 590
+1: R10
+Current number: 500
+1: L25
+Current number: 375
+1: R48
+Current number: 323
+1: R77
+Current number: 300
+1: L72
+Current number: 128
+1: L19
+Current number: 9
+1: L68
+Current number: 41
+1: R59
+Current number: 0
+1: L59
+Current number: 41
+1: R59
+Current number: 0
+1: R3
+Current number: 3
+1: L5
+Current number: 98
+1: R78
+Current number: 76
+1: R24
+Current number: 0
+1: L39
+Current number: 61
+1: L11
+Current number: 50
+1: R50
+Current number: 0
+1: R53
+Current number: 53
+1: R12
+Current number: 65
+1: L71
+Current number: 94
+1: R79
+Current number: 73
+1: R27
+Current number: 0
+1: R67
+Current number: 67
+1: L67
+Current number: 0
+1: L58
+Current number: 42
+1: L77
+Current number: 65
+1: L14
+Current number: 51
+1: L3
+Current number: 48
+1: R65
+Current number: 13
+1: R59
+Current number: 72
+1: R60
+Current number: 32
+1: L77
+Current number: 55
+1: R43
+Current number: 98
+1: L77
+Current number: 21
+1: L96
+Current number: 25
+1: R57
+Current number: 82
+1: R18
+Current number: 0
+1: L881
+Current number: -781
+1: L47
+Current number: -728
+1: L289
+Current number: -917
+1: R437
+Current number: -380
+1: R35
+Current number: -245
+1: R10
+Current number: -135
+1: L712
+Current number: -747
+1: R77
+Current number: -570
+1: L1
+Current number: -471
+1: L750
+Current number: -1121
+1: R21
+Current number: -1000
+1: L50
+Current number: -950
+1: L71
+Current number: -921
+1: L666
+Current number: -1487
+1: R187
+Current number: -1200
+1: L81
+Current number: -1181
+1: L49
+Current number: -1130
+1: R57
+Current number: -973
+1: R75
+Current number: -798
+1: L48
+Current number: -746
+1: L654
+Current number: -1300
+1: L73
+Current number: -1273
+1: L407
+Current number: -1580
+1: L320
+Current number: -1800
+1: R435
+Current number: -1265
+1: L62
+Current number: -1227
+1: L68
+Current number: -1195
+1: L805
+Current number: -1900
+1: L941
+Current number: -2741
+1: R36
+Current number: -2605
+1: L24
+Current number: -2529
+1: L871
+Current number: -3300
+1: R97
+Current number: -3103
+1: L58
+Current number: -3061
+1: R15
+Current number: -2946
+1: L93
+Current number: -2939
+1: L61
+Current number: -2900
+1: L732
+Current number: -3532
+1: L84
+Current number: -3516
+1: L1
+Current number: -3417
+1: R356
+Current number: -2961
+1: R61
+Current number: -2800
+1: L8
+Current number: -2708
+1: R658
+Current number: -1950
+1: L50
+Current number: -1900
+1: R52
+Current number: -1748
+1: R479
+Current number: -1169
+1: L31
+Current number: -1100
+1: L67
+Current number: -1067
+1: L13
+Current number: -980
+1: R3
+Current number: -877
+1: R46
+Current number: -731
+1: L31
+Current number: -662
+1: L96
+Current number: -658
+1: L42
+Current number: -600
+1: R68
+Current number: -432
+1: R832
+Current number: 300
+1: R48
+Current number: 248
+1: L15
+Current number: 133
+1: L833
+Current number: -600
+1: R73
+Current number: -427
+1: R718
+Current number: 191
+1: L38
+Current number: 53
+1: L994
+Current number: -841
+1: R35
+Current number: -706
+1: R74
+Current number: -532
+1: L70
+Current number: -502
+1: R38
+Current number: -364
+1: L4
+Current number: -268
+1: R15
+Current number: -153
+1: R39
+Current number: -14
+1: R68
+Current number: 54
+1: R52
+Current number: 6
+1: R74
+Current number: 80
+1: R54
+Current number: 34
+1: L49
+Current number: 85
+1: R25
+Current number: 10
+1: L10
+Current number: 0
+1: R14
+Current number: 14
+1: L50
+Current number: 64
+1: R32
+Current number: 96
+1: L97
+Current number: 99
+1: L99
+Current number: 0
+1: R97
+Current number: 97
+1: L41
+Current number: 56
+1: R20
+Current number: 76
+1: L76
+Current number: 0
+1: R96
+Current number: 96
+1: L596
+Current number: -400
+1: R23
+Current number: -277
+1: L303
+Current number: -480
+1: R97
+Current number: -283
+1: L16
+Current number: -199
+1: R64
+Current number: -35
+1: L70
+Current number: -5
+1: L96
+Current number: -1
+1: R1
+Current number: 0
+1: L86
+Current number: 14
+1: R86
+Current number: 0
+1: L93
+Current number: 7
+1: L7
+Current number: 0
+1: R42
+Current number: 42
+1: R94
+Current number: 36
+1: R64
+Current number: 0
+1: R93
+Current number: 93
+1: R7
+Current number: 0
+1: R44
+Current number: 44
+1: L44
+Current number: 0
+1: L19
+Current number: 81
+1: R18
+Current number: 99
+1: L99
+Current number: 0
+1: R204
+Current number: 104
+1: R96
+Current number: 100
+1: R34
+Current number: 34
+1: L606
+Current number: -472
+1: R872
+Current number: 300
+1: L74
+Current number: 126
+1: L51
+Current number: 75
+1: R92
+Current number: 67
+1: R73
+Current number: 40
+1: R131
+Current number: 71
+1: L977
+Current number: -806
+1: R6
+Current number: -700
+1: R17
+Current number: -583
+1: R32
+Current number: -451
+1: L84
+Current number: -435
+1: R58
+Current number: -277
+1: L23
+Current number: -200
+1: L16
+Current number: -116
+1: L61
+Current number: -77
+1: L19
+Current number: 4
+1: R2
+Current number: 6
+1: L6
+Current number: 0
+1: R86
+Current number: 86
+1: L386
+Current number: -200
+1: L925
+Current number: -1025
+1: L5
+Current number: -930
+1: R30
+Current number: -800
+1: L706
+Current number: -1406
+1: R14
+Current number: -1292
+1: R60
+Current number: -1132
+1: R32
+Current number: -1000
+1: R85
+Current number: -815
+1: L85
+Current number: -800
+1: R44
+Current number: -656
+1: R56
+Current number: -500
+1: L87
+Current number: -487
+1: L21
+Current number: -408
+1: R908
+Current number: 400
+1: L171
+Current number: 129
+1: R2
+Current number: 31
+1: R62
+Current number: 93
+1: L493
+Current number: -300
+1: R666
+Current number: 266
+1: L166
+Current number: 0
+1: L27
+Current number: 73
+1: L640
+Current number: -467
+1: R67
+Current number: -300
+1: L219
+Current number: -419
+1: L793
+Current number: -1112
+1: R28
+Current number: -984
+1: R33
+Current number: -851
+1: R28
+Current number: -723
+1: L777
+Current number: -1400
+1: L98
+Current number: -1398
+1: R68
+Current number: -1230
+1: R38
+Current number: -1092
+1: R6
+Current number: -986
+1: R493
+Current number: -393
+1: L7
+Current number: -300
+1: R40
+Current number: -160
+1: L934
+Current number: -994
+1: L97
+Current number: -991
+1: L9
+Current number: -900
+1: L316
+Current number: -1116
+1: R816
+Current number: -200
+1: R87
+Current number: -13
+1: L87
+Current number: 0
+1: L20
+Current number: 80
+1: L41
+Current number: 39
+1: R88
+Current number: 27
+1: R39
+Current number: 66
+1: R40
+Current number: 6
+1: L817
+Current number: -711
+1: L66
+Current number: -677
+1: R7
+Current number: -570
+1: R4
+Current number: -466
+1: L93
+Current number: -459
+1: L975
+Current number: -1334
+1: R46
+Current number: -1188
+1: L46
+Current number: -1134
+1: R852
+Current number: -182
+1: R111
+Current number: 29
+1: L15
+Current number: 14
+1: R886
+Current number: 800
+1: R20
+Current number: 720
+1: R74
+Current number: 694
+1: L94
+Current number: 500
+1: R36
+Current number: 436
+1: R37
+Current number: 373
+1: R51
+Current number: 324
+1: L435
+Current number: -11
+1: L40
+Current number: 49
+1: L49
+Current number: 0
+1: R2
+Current number: 2
+1: R98
+Current number: 0
+1: R80
+Current number: 80
+1: L80
+Current number: 0
+1: R68
+Current number: 68
+1: L68
+Current number: 0
+1: L842
+Current number: -742
+1: R42
+Current number: -600
+1: R66
+Current number: -434
+1: L73
+Current number: -407
+1: R7
+Current number: -300
+1: L80
+Current number: -280
+1: L66
+Current number: -246
+1: R46
+Current number: -100
+1: L57
+Current number: -57
+1: R31
+Current number: 74
+1: R98
+Current number: 72
+1: R28
+Current number: 0
+1: L10
+Current number: 90
+1: L32
+Current number: 58
+1: R97
+Current number: 55
+1: R24
+Current number: 79
+1: R79
+Current number: 58
+1: R42
+Current number: 0
+1: L13
+Current number: 87
+1: R15
+Current number: 2
+1: L2
+Current number: 0
+1: L350
+Current number: -250
+1: L50
+Current number: -200
+1: R272
+Current number: 72
+1: R928
+Current number: 900
+1: R911
+Current number: 1711
+1: R89
+Current number: 1700
+1: R214
+Current number: 1814
+1: R32
+Current number: 1746
+1: L246
+Current number: 1400
+1: R35
+Current number: 1335
+1: R89
+Current number: 1324
+1: L57
+Current number: 1167
+1: R33
+Current number: 1100
+1: R34
+Current number: 1034
+1: R75
+Current number: 1009
+1: R70
+Current number: 979
+1: L38
+Current number: 841
+1: L912
+Current number: 29
+1: L98
+Current number: 31
+1: L731
+Current number: -600
+1: R94
+Current number: -406
+1: R6
+Current number: -300
+1: L26
+Current number: -226
+1: L344
+Current number: -470
+1: L30
+Current number: -400
+1: R97
+Current number: -203
+1: L24
+Current number: -127
+1: L65
+Current number: -92
+1: L8
+Current number: 0
+1: R7
+Current number: 7
+1: L7
+Current number: 0
+1: L793
+Current number: -693
+1: R465
+Current number: -128
+1: R18
+Current number: -10
+1: L62
+Current number: 28
+1: L3
+Current number: 25
+1: R75
+Current number: 0
+1: R6
+Current number: 6
+1: L406
+Current number: -300
+1: R6
+Current number: -194
+1: R94
+Current number: 0
+1: L27
+Current number: 73
+1: L66
+Current number: 7
+1: L107
+Current number: 0
+1: R10
+Current number: 10
+1: R90
+Current number: 0
+1: L15
+Current number: 85
+1: L285
+Current number: -100
+1: R21
+Current number: 21
+1: R17
+Current number: 38
+1: L74
+Current number: 64
+1: L264
+Current number: -100
+1: R65
+Current number: 65
+1: L68
+Current number: 97
+1: L43
+Current number: 54
+1: R46
+Current number: 0
+1: L76
+Current number: 24
+1: R62
+Current number: 86
+1: L80
+Current number: 6
+1: R19
+Current number: 25
+1: R75
+Current number: 0
+1: R58
+Current number: 58
+1: L58
+Current number: 0
+1: L56
+Current number: 44
+1: R864
+Current number: 808
+1: R84
+Current number: 792
+1: R8
+Current number: 700
+1: L9
+Current number: 591
+1: R47
+Current number: 538
+1: L39
+Current number: 399
+1: L717
+Current number: -218
+1: L27
+Current number: -145
+1: L95
+Current number: -140
+1: R64
+Current number: 24
+1: R45
+Current number: 69
+1: L86
+Current number: 83
+1: L426
+Current number: -243
+1: R43
+Current number: -100
+1: L42
+Current number: -42
+1: R72
+Current number: 30
+1: R25
+Current number: 55
+1: L47
+Current number: 8
+1: R394
+Current number: 302
+1: R17
+Current number: 219
+1: L19
+Current number: 100
+1: L10
+Current number: 90
+1: R919
+Current number: 909
+1: L27
+Current number: 782
+1: R24
+Current number: 706
+1: L65
+Current number: 541
+1: L79
+Current number: 362
+1: R64
+Current number: 326
+1: R274
+Current number: 500
+1: L90
+Current number: 310
+1: L10
+Current number: 200
+1: R75
+Current number: 175
+1: R71
+Current number: 146
+1: R53
+Current number: 99
+1: L99
+Current number: 0
+1: R60
+Current number: 60
+1: L97
+Current number: 63
+1: R637
+Current number: 600
+1: L35
+Current number: 465
+1: L65
+Current number: 300
+1: L26
+Current number: 174
+1: R26
+Current number: 100
+1: L11
+Current number: 89
+1: R911
+Current number: 900
+1: R86
+Current number: 886
+1: L739
+Current number: 47
+1: L87
+Current number: 60
+1: L58
+Current number: 2
+1: L340
+Current number: -238
+1: R59
+Current number: -79
+1: R79
+Current number: 0
+1: L63
+Current number: 37
+1: R63
+Current number: 0
+1: R94
+Current number: 94
+1: L6
+Current number: 88
+1: R11
+Current number: 99
+1: L28
+Current number: 71
+1: L89
+Current number: 82
+1: R18
+Current number: 0
+1: L67
+Current number: 33
+1: L176
+Current number: -43
+1: R66
+Current number: 23
+1: R877
+Current number: 800
+1: R166
+Current number: 866
+1: L407
+Current number: 359
+1: R41
+Current number: 300
+1: R21
+Current number: 221
+1: R2
+Current number: 123
+1: L565
+Current number: -342
+1: R7
+Current number: -235
+1: L65
+Current number: -200
+1: R90
+Current number: -10
+1: R58
+Current number: 48
+1: R52
+Current number: 0
+1: R60
+Current number: 60
+1: L660
+Current number: -500
+1: R21
+Current number: -379
+1: L4
+Current number: -283
+1: R507
+Current number: 124
+1: R15
+Current number: 39
+1: R761
+Current number: 700
+1: L31
+Current number: 569
+1: L508
+Current number: 61
+1: L97
+Current number: 64
+1: L764
+Current number: -600
+1: R13
+Current number: -487
+1: L26
+Current number: -413
+1: L84
+Current number: -397
+1: R559
+Current number: 62
+1: L226
+Current number: -64
+1: L39
+Current number: -3
+1: L22
+Current number: 75
+1: R86
+Current number: 61
+1: R9
+Current number: 70
+1: R69
+Current number: 39
+1: R61
+Current number: 0
+1: R676
+Current number: 576
+1: L18
+Current number: 458
+1: R69
+Current number: 427
+1: R73
+Current number: 400
+1: R28
+Current number: 328
+1: L84
+Current number: 144
+1: R556
+Current number: 600
+1: L18
+Current number: 482
+1: R791
+Current number: 1173
+1: L73
+Current number: 1000
+1: R47
+Current number: 947
+1: R44
+Current number: 891
+1: R116
+Current number: 907
+1: L7
+Current number: 800
+1: R90
+Current number: 790
+1: L90
+Current number: 600
+1: L22
+Current number: 478
+1: R57
+Current number: 435
+1: R665
+Current number: 1000
+1: L64
+Current number: 836
+1: R742
+Current number: 1478
+1: R22
+Current number: 1400
+1: L93
+Current number: 1207
+1: L807
+Current number: 300
+1: L304
+Current number: 96
+1: R4
+Current number: 0
+1: L71
+Current number: 29
+1: R21
+Current number: 50
+1: R50
+Current number: 0
+1: R12
+Current number: 12
+1: L591
+Current number: -479
+1: L21
+Current number: -400
+1: R76
+Current number: -224
+1: R54
+Current number: -70
+1: L25
+Current number: 5
+1: L305
+Current number: -200
+1: R45
+Current number: -55
+1: R55
+Current number: 0
+1: R17
+Current number: 17
+1: R37
+Current number: 54
+1: L165
+Current number: -11
+1: R22
+Current number: 11
+1: R84
+Current number: 95
+1: R58
+Current number: 53
+1: R79
+Current number: 32
+1: L632
+Current number: -500
+1: R79
+Current number: -321
+1: R21
+Current number: -200
+1: R14
+Current number: -86
+1: R86
+Current number: 0
+1: R622
+Current number: 522
+1: L22
+Current number: 400
+1: L56
+Current number: 244
+1: L44
+Current number: 100
+1: R93
+Current number: 93
+1: R598
+Current number: 591
+1: L84
+Current number: 407
+1: R57
+Current number: 364
+1: L22
+Current number: 242
+1: L42
+Current number: 100
+1: L90
+Current number: 10
+1: L86
+Current number: 24
+1: L35
+Current number: 89
+1: L20
+Current number: 69
+1: R153
+Current number: 122
+1: L22
+Current number: 0
+1: L23
+Current number: 77
+1: R81
+Current number: 58
+1: R64
+Current number: 22
+1: R78
+Current number: 0
+1: L36
+Current number: 64
+1: R21
+Current number: 85
+1: R199
+Current number: 184
+1: L29
+Current number: 55
+1: L55
+Current number: 0
+1: L60
+Current number: 40
+1: R60
+Current number: 0
+1: R17
+Current number: 17
+1: L22
+Current number: 95
+1: R205
+Current number: 200
+1: R15
+Current number: 115
+1: R956
+Current number: 971
+1: L29
+Current number: 842
+1: L23
+Current number: 719
+1: L57
+Current number: 562
+1: R12
+Current number: 474
+1: R708
+Current number: 1082
+1: R73
+Current number: 1055
+1: L55
+Current number: 900
+1: L49
+Current number: 751
+1: R8
+Current number: 659
+1: R41
+Current number: 600
+1: L5
+Current number: 495
+1: R75
+Current number: 470
+1: L70
+Current number: 300
+1: R80
+Current number: 280
+1: L80
+Current number: 100
+1: R793
+Current number: 793
+1: L20
+Current number: 673
+1: R27
+Current number: 600
+1: R35
+Current number: 535
+1: R979
+Current number: 1414
+1: R94
+Current number: 1408
+1: R89
+Current number: 1397
+1: R52
+Current number: 1349
+1: R21
+Current number: 1270
+1: R790
+Current number: 1960
+1: R40
+Current number: 1900
+1: L24
+Current number: 1776
+1: L76
+Current number: 1600
+1: L1
+Current number: 1499
+1: R1
+Current number: 1400
+1: R61
+Current number: 1361
+1: L23
+Current number: 1238
+1: R62
+Current number: 1200
+1: L67
+Current number: 1033
+1: R4
+Current number: 937
+1: R63
+Current number: 900
+1: R29
+Current number: 829
+1: L29
+Current number: 700
+1: L57
+Current number: 543
+1: R29
+Current number: 472
+1: L72
+Current number: 300
+1: L11
+Current number: 189
+1: L489
+Current number: -200
+1: L16
+Current number: -116
+1: R4
+Current number: -12
+1: R12
+Current number: 0
+1: R449
+Current number: 349
+1: R351
+Current number: 600
+1: L22
+Current number: 478
+1: L30
+Current number: 348
+1: L12
+Current number: 236
+1: L36
+Current number: 100
+1: L97
+Current number: 3
+1: R3
+Current number: 6
+1: L6
+Current number: 0
+1: R1
+Current number: 1
+1: R55
+Current number: 56
+1: L568
+Current number: -412
+1: R49
+Current number: -263
+1: R22
+Current number: -141
+1: R141
+Current number: 0
+1: L75
+Current number: 25
+1: R29
+Current number: 54
+1: R46
+Current number: 0
+1: R9
+Current number: 9
+1: L9
+Current number: 0
+1: R42
+Current number: 42
+1: L15
+Current number: 27
+1: L22
+Current number: 5
+1: L67
+Current number: 38
+1: L993
+Current number: -855
+1: L14
+Current number: -769
+1: L9
+Current number: -678
+1: R78
+Current number: -500
+1: L30
+Current number: -430
+1: L45
+Current number: -375
+1: L98
+Current number: -373
+1: R373
+Current number: 0
+1: L50
+Current number: 50
+1: R15
+Current number: 65
+1: R29
+Current number: 94
+1: R15
+Current number: 9
+1: R57
+Current number: 66
+1: R20
+Current number: 86
+1: L57
+Current number: 29
+1: R24
+Current number: 53
+1: L48
+Current number: 5
+1: L90
+Current number: 15
+1: L297
+Current number: -182
+1: R39
+Current number: -43
+1: R48
+Current number: 5
+1: R90
+Current number: 95
+1: R86
+Current number: 81
+1: L81
+Current number: 0
+1: L17
+Current number: 83
+1: L83
+Current number: 0
+1: L590
+Current number: -490
+1: L610
+Current number: -1000
+1: R50
+Current number: -850
+1: R268
+Current number: -482
+1: L22
+Current number: -404
+1: R982
+Current number: 478
+1: L78
+Current number: 300
+1: L85
+Current number: 115
+1: R85
+Current number: 100
+1: L60
+Current number: 40
+1: L1
+Current number: 39
+1: R137
+Current number: 76
+1: R24
+Current number: 0
+1: L862
+Current number: -762
+1: R62
+Current number: -600
+1: L98
+Current number: -598
+1: R65
+Current number: -433
+1: R59
+Current number: -274
+1: R744
+Current number: 370
+1: L24
+Current number: 246
+1: L372
+Current number: -26
+1: R44
+Current number: 18
+1: L53
+Current number: 65
+1: R14
+Current number: 79
+1: L23
+Current number: 56
+1: L32
+Current number: 24
+1: L4
+Current number: 20
+1: L85
+Current number: 35
+1: L235
+Current number: -100
+1: R20
+Current number: 20
+1: R74
+Current number: 94
+1: L932
+Current number: -738
+1: L418
+Current number: -1056
+1: L44
+Current number: -1000
+1: L6
+Current number: -906
+1: L194
+Current number: -1000
+1: R29
+Current number: -871
+1: R84
+Current number: -687
+1: L26
+Current number: -613
+1: L52
+Current number: -565
+1: R76
+Current number: -389
+1: L11
+Current number: -300
+1: R75
+Current number: -125
+1: L75
+Current number: -100
+1: L34
+Current number: -34
+1: R34
+Current number: 0
+1: L27
+Current number: 73
+1: R27
+Current number: 0
+1: L473
+Current number: -373
+1: R12
+Current number: -261
+1: R71
+Current number: -90
+1: R290
+Current number: 100
+1: R183
+Current number: 183
+1: R24
+Current number: 107
+1: L7
+Current number: 0
+1: R83
+Current number: 83
+1: L83
+Current number: 0
+1: R531
+Current number: 431
+1: L68
+Current number: 263
+1: L21
+Current number: 142
+1: L542
+Current number: -300
+1: R87
+Current number: -113
+1: R13
+Current number: 0
+1: L99
+Current number: 1
+1: R78
+Current number: 79
+1: R33
+Current number: 12
+1: L35
+Current number: 77
+1: L896
+Current number: -719
+1: R455
+Current number: -164
+1: L52
+Current number: -116
+1: L784
+Current number: -800
+1: R86
+Current number: -614
+1: L486
+Current number: -1000
+1: L521
+Current number: -1421
+1: R21
+Current number: -1300
+1: L770
+Current number: -1970
+1: L30
+Current number: -1900
+1: R35
+Current number: -1765
+1: L35
+Current number: -1700
+1: L83
+Current number: -1683
+1: R93
+Current number: -1490
+1: L610
+Current number: -2000
+1: R1
+Current number: -1899
+1: L48
+Current number: -1847
+1: L15
+Current number: -1762
+1: L23
+Current number: -1685
+1: L18
+Current number: -1603
+1: R44
+Current number: -1459
+1: L76
+Current number: -1435
+1: R77
+Current number: -1258
+1: L876
+Current number: -2034
+1: L54
+Current number: -1988
+1: R88
+Current number: -1800
+1: L51
+Current number: -1751
+1: R589
+Current number: -1062
+1: L13
+Current number: -975
+1: R79
+Current number: -796
+1: R782
+Current number: 86
+1: R55
+Current number: 41
+1: R59
+Current number: 0
+1: L89
+Current number: 11
+1: L465
+Current number: -354
+1: L46
+Current number: -300
+1: R43
+Current number: -157
+1: R72
+Current number: 15
+1: R8
+Current number: 23
+1: L23
+Current number: 0
+1: L130
+Current number: -30
+1: R58
+Current number: 28
+1: R3
+Current number: 31
+1: R30
+Current number: 61
+1: R39
+Current number: 0
+1: L42
+Current number: 58
+1: R56
+Current number: 14
+1: L17
+Current number: 97
+1: L39
+Current number: 58
+1: L77
+Current number: 81
+1: R19
+Current number: 0
+1: L54
+Current number: 46
+1: L65
+Current number: 81
+1: R19
+Current number: 0
+1: R65
+Current number: 65
+1: L2
+Current number: 63
+1: R75
+Current number: 38
+1: L338
+Current number: -200
+1: L374
+Current number: -474
+1: L254
+Current number: -628
+1: L96
+Current number: -624
+1: L33
+Current number: -557
+1: L43
+Current number: -500
+1: R168
+Current number: -232
+1: R32
+Current number: -100
+1: L78
+Current number: -78
+1: L22
+Current number: 0
+1: L59
+Current number: 41
+1: R15
+Current number: 56
+1: R87
+Current number: 43
+1: R57
+Current number: 0
+1: L32
+Current number: 68
+1: L2
+Current number: 66
+1: R85
+Current number: 51
+1: R49
+Current number: 0
+1: R530
+Current number: 430
+1: R233
+Current number: 563
+1: L67
+Current number: 396
+1: L72
+Current number: 224
+1: R76
+Current number: 200
+1: R37
+Current number: 137
+1: L397
+Current number: -160
+1: R83
+Current number: 23
+1: L423
+Current number: -300
+1: R9
+Current number: -191
+1: L51
+Current number: -142
+1: R42
+Current number: 0
+1: R36
+Current number: 36
+1: R64
+Current number: 0
+1: L66
+Current number: 34
+1: L34
+Current number: 0
+1: R471
+Current number: 371
+1: L3
+Current number: 268
+1: R86
+Current number: 254
+1: R846
+Current number: 1000
+1: R3
+Current number: 903
+1: L403
+Current number: 400
+1: L524
+Current number: -24
+1: L76
+Current number: 0
+1: L86
+Current number: 14
+1: R36
+Current number: 50
+1: L40
+Current number: 10
+1: R75
+Current number: 85
+1: R15
+Current number: 0
+1: L42
+Current number: 58
+1: R64
+Current number: 22
+1: L27
+Current number: 95
+1: L1
+Current number: 94
+1: R6
+Current number: 0
+1: R92
+Current number: 92
+1: R8
+Current number: 0
+1: L87
+Current number: 13
+1: L13
+Current number: 0
+1: R732
+Current number: 632
+1: R68
+Current number: 600
+1: R69
+Current number: 569
+1: R931
+Current number: 1400
+1: L687
+Current number: 613
+1: L37
+Current number: 476
+1: L51
+Current number: 325
+1: L43
+Current number: 182
+1: R30
+Current number: 112
+1: L10
+Current number: 2
+1: L382
+Current number: -280
+1: L20
+Current number: -200
+1: L455
+Current number: -555
+1: R93
+Current number: -362
+1: L71
+Current number: -333
+1: R92
+Current number: -141
+1: R64
+Current number: 23
+1: R91
+Current number: 14
+1: R86
+Current number: 0
+1: R49
+Current number: 49
+1: L93
+Current number: 56
+1: R44
+Current number: 0
+1: L4
+Current number: 96
+1: R77
+Current number: 73
+1: L733
+Current number: -560
+1: R60
+Current number: -400
+1: L56
+Current number: -356
+1: R56
+Current number: -200
+1: L25
+Current number: -125
+1: R42
+Current number: 17
+1: R61
+Current number: 78
+1: R519
+Current number: 497
+1: R76
+Current number: 473
+1: R8
+Current number: 381
+1: L81
+Current number: 200
+1: L283
+Current number: 17
+1: R62
+Current number: 79
+1: R31
+Current number: 10
+1: L90
+Current number: 20
+1: R23
+Current number: 43
+1: R39
+Current number: 82
+1: L789
+Current number: -607
+1: R91
+Current number: -416
+1: L84
+Current number: -400
+1: R314
+Current number: 14
+1: R88
+Current number: 2
+1: R5
+Current number: 7
+1: L749
+Current number: -642
+1: L58
+Current number: -600
+1: R86
+Current number: -414
+1: L5
+Current number: -319
+1: L81
+Current number: -300
+1: R90
+Current number: -110
+1: R89
+Current number: 79
+1: L50
+Current number: 29
+1: R4
+Current number: 33
+1: R99
+Current number: 32
+1: L61
+Current number: 71
+1: R27
+Current number: 98
+1: L98
+Current number: 0
+1: L33
+Current number: 67
+1: L68
+Current number: 99
+1: R19
+Current number: 18
+1: L20
+Current number: 98
+1: L98
+Current number: 0
+1: L111
+Current number: -11
+1: L42
+Current number: 47
+1: L64
+Current number: 83
+1: R793
+Current number: 776
+1: R560
+Current number: 1236
+1: R64
+Current number: 1200
+1: R22
+Current number: 1122
+1: R78
+Current number: 1100
+1: R50
+Current number: 1050
+1: R956
+Current number: 1906
+1: L458
+Current number: 1348
+1: R18
+Current number: 1266
+1: L66
+Current number: 1100
+1: L3
+Current number: 997
+1: R3
+Current number: 900
+1: L916
+Current number: 84
+1: L84
+Current number: 0
+1: R55
+Current number: 55
+1: R45
+Current number: 0
+1: R30
+Current number: 30
+1: R30
+Current number: 60
+1: L363
+Current number: -203
+1: R5
+Current number: -98
+1: L17
+Current number: -15
+1: L88
+Current number: -3
+1: L273
+Current number: -176
+1: R13
+Current number: -63
+1: R66
+Current number: 3
+1: L41
+Current number: 62
+1: R38
+Current number: 0
+1: R74
+Current number: 74
+1: L514
+Current number: -340
+1: R540
+Current number: 100
+1: R909
+Current number: 909
+1: R48
+Current number: 857
+1: L11
+Current number: 746
+1: R554
+Current number: 1200
+1: R525
+Current number: 1625
+1: R75
+Current number: 1600
+1: L65
+Current number: 1435
+1: R11
+Current number: 1346
+1: L46
+Current number: 1200
+1: L73
+Current number: 1027
+1: R394
+Current number: 1321
+1: R64
+Current number: 1285
+1: L65
+Current number: 1120
+1: R80
+Current number: 1100
+1: L52
+Current number: 948
+1: L148
+Current number: 700
+1: L14
+Current number: 586
+1: L969
+Current number: -283
+1: L576
+Current number: -759
+1: L341
+Current number: -1000
+1: L26
+Current number: -926
+1: R26
+Current number: -800
+1: R53
+Current number: -647
+1: R25
+Current number: -522
+1: L478
+Current number: -900
+1: R63
+Current number: -737
+1: R98
+Current number: -539
+1: L3
+Current number: -442
+1: R91
+Current number: -251
+1: R73
+Current number: -78
+1: R84
+Current number: 6
+1: L88
+Current number: 18
+1: L2
+Current number: 16
+1: R93
+Current number: 9
+1: R95
+Current number: 4
+1: L421
+Current number: -317
+1: R17
+Current number: -200
+1: R63
+Current number: -37
+1: R26
+Current number: 89
+1: L80
+Current number: 9
+1: R91
+Current number: 0
+1: R31
+Current number: 31
+1: R358
+Current number: 289
+1: L80
+Current number: 109
+1: L53
+Current number: 56
+1: L98
+Current number: 58
+1: L58
+Current number: 0
+1: R82
+Current number: 82
+1: R18
+Current number: 0
+1: R77
+Current number: 77
+1: L77
+Current number: 0
+1: R35
+Current number: 35
+1: L40
+Current number: 95
+1: R8
+Current number: 3
+1: R24
+Current number: 27
+1: R81
+Current number: 8
+1: L69
+Current number: 39
+1: R561
+Current number: 500
+1: L56
+Current number: 344
+1: R99
+Current number: 343
+1: R48
+Current number: 291
+1: R9
+Current number: 200
+1: L46
+Current number: 54
+1: L13
+Current number: 41
+1: L687
+Current number: -546
+1: L228
+Current number: -674
+1: L26
+Current number: -600
+1: R318
+Current number: -182
+1: L18
+Current number: -100
+1: R476
+Current number: 276
+1: L6
+Current number: 170
+1: R73
+Current number: 143
+1: L7
+Current number: 36
+1: R48
+Current number: 84
+1: L884
+Current number: -700
+1: R8
+Current number: -592
+1: R392
+Current number: -100
+1: R78
+Current number: 78
+1: R94
+Current number: 72
+1: L472
+Current number: -300
+1: R780
+Current number: 380
+1: R41
+Current number: 321
+1: R679
+Current number: 900
+1: R14
+Current number: 814
+1: R41
+Current number: 755
+1: R69
+Current number: 724
+1: R226
+Current number: 850
+1: R64
+Current number: 814
+1: L914
+Current number: 0
+1: L38
+Current number: 62
+1: L35
+Current number: 27
+1: L27
+Current number: 0
+1: L38
+Current number: 62
+1: R35
+Current number: 97
+1: R31
+Current number: 28
+1: L769
+Current number: -641
+1: R79
+Current number: -462
+1: R42
+Current number: -320
+1: L82
+Current number: -302
+1: R904
+Current number: 502
+1: L2
+Current number: 400
+1: L711
+Current number: -211
+1: L20
+Current number: -131
+1: L69
+Current number: -100
+1: R39
+Current number: 39
+1: R684
+Current number: 623
+1: R39
+Current number: 562
+1: L90
+Current number: 372
+1: R28
+Current number: 300
+1: R75
+Current number: 275
+1: L13
+Current number: 162
+1: L37
+Current number: 25
+1: L11
+Current number: 14
+1: L78
+Current number: 36
+1: R333
+Current number: 269
+1: R31
+Current number: 200
+1: R36
+Current number: 136
+1: L14
+Current number: 22
+1: L22
+Current number: 0
+1: R37
+Current number: 37
+1: L78
+Current number: 59
+1: R6
+Current number: 65
+1: R5
+Current number: 70
+1: L470
+Current number: -300
+1: L97
+Current number: -297
+1: R97
+Current number: -100
+1: R53
+Current number: 53
+1: R78
+Current number: 31
+1: L85
+Current number: 46
+1: R16
+Current number: 62
+1: L626
+Current number: -464
+1: R778
+Current number: 214
+1: L14
+Current number: 100
+1: L50
+Current number: 50
+1: L50
+Current number: 0
+1: L44
+Current number: 56
+1: L8
+Current number: 48
+1: R11
+Current number: 59
+1: R41
+Current number: 0
+1: R73
+Current number: 73
+1: L4
+Current number: 69
+1: R1
+Current number: 70
+1: L70
+Current number: 0
+1: L90
+Current number: 10
+1: L10
+Current number: 0
+1: R763
+Current number: 663
+1: R609
+Current number: 1172
+1: L72
+Current number: 1000
+1: R89
+Current number: 989
+1: R330
+Current number: 1219
+1: R81
+Current number: 1200
+1: L699
+Current number: 401
+1: L1
+Current number: 300
+1: R76
+Current number: 276
+1: L40
+Current number: 136
+1: L4
+Current number: 32
+1: R26
+Current number: 58
+1: L2
+Current number: 56
+1: R72
+Current number: 28
+1: L22
+Current number: 6
+1: R85
+Current number: 91
+1: L91
+Current number: 0
+1: R63
+Current number: 63
+1: R83
+Current number: 46
+1: R54
+Current number: 0
+1: L51
+Current number: 49
+1: R51
+Current number: 0
+1: R223
+Current number: 123
+1: L23
+Current number: 0
+1: R36
+Current number: 36
+1: L26
+Current number: 10
+1: R42
+Current number: 52
+1: R781
+Current number: 733
+1: R3
+Current number: 636
+1: L36
+Current number: 500
+1: L37
+Current number: 363
+1: R906
+Current number: 1169
+1: L64
+Current number: 1005
+1: R37
+Current number: 942
+1: L42
+Current number: 800
+1: R51
+Current number: 751
+1: R231
+Current number: 882
+1: L74
+Current number: 708
+1: L21
+Current number: 587
+1: R94
+Current number: 581
+1: L581
+Current number: 0
+1: L14
+Current number: 86
+1: R64
+Current number: 50
+1: L50
+Current number: 0
+1: R485
+Current number: 385
+1: L85
+Current number: 200
+1: L24
+Current number: 76
+1: R42
+Current number: 18
+1: R92
+Current number: 10
+1: L10
+Current number: 0
+1: L33
+Current number: 67
+1: L53
+Current number: 14
+1: R74
+Current number: 88
+1: R77
+Current number: 65
+1: L466
+Current number: -301
+1: R1
+Current number: -200
+1: L30
+Current number: -130
+1: R75
+Current number: 45
+1: R10
+Current number: 55
+1: L10
+Current number: 45
+1: L249
+Current number: -104
+1: L85
+Current number: -89
+1: R89
+Current number: 0
+1: R95
+Current number: 95
+1: R24
+Current number: 19
+1: L82
+Current number: 37
+1: R93
+Current number: 30
+1: L22
+Current number: 8
+1: R10
+Current number: 18
+1: L18
+Current number: 0
+1: L5
+Current number: 95
+1: R5
+Current number: 0
+1: L70
+Current number: 30
+1: R13
+Current number: 43
+1: L970
+Current number: -827
+1: L73
+Current number: -800
+1: R64
+Current number: -636
+1: R931
+Current number: 195
+1: L66
+Current number: 29
+1: R56
+Current number: 85
+1: R44
+Current number: 29
+1: L969
+Current number: -840
+1: R17
+Current number: -723
+1: L97
+Current number: -720
+1: L89
+Current number: -709
+1: R409
+Current number: -200
+1: L19
+Current number: -119
+1: L45
+Current number: -64
+1: R64
+Current number: 0
+1: L80
+Current number: 20
+1: L447
+Current number: -327
+1: R227
+Current number: 0
+1: L684
+Current number: -584
+1: R218
+Current number: -266
+1: L420
+Current number: -586
+1: R86
+Current number: -400
+1: R35
+Current number: -265
+1: R5
+Current number: -160
+1: L99
+Current number: -159
+1: L41
+Current number: -100
+1: R58
+Current number: 58
+1: R42
+Current number: 0
+1: R28
+Current number: 28
+1: R17
+Current number: 45
+1: R57
+Current number: 2
+1: L57
+Current number: 45
+1: R88
+Current number: 33
+1: R4
+Current number: 37
+1: L62
+Current number: 75
+1: L56
+Current number: 19
+1: L76
+Current number: 43
+1: R54
+Current number: 97
+1: R39
+Current number: 36
+1: R19
+Current number: 55
+1: L55
+Current number: 0
+1: L95
+Current number: 5
+1: R76
+Current number: 81
+1: R119
+Current number: 100
+1: L31
+Current number: 69
+1: R53
+Current number: 22
+1: L73
+Current number: 49
+1: L49
+Current number: 0
+1: L589
+Current number: -489
+1: R489
+Current number: 0
+1: R74
+Current number: 74
+1: R73
+Current number: 47
+1: R55
+Current number: 2
+1: L2
+Current number: 0
+1: R314
+Current number: 214
+1: R746
+Current number: 860
+1: L31
+Current number: 729
+1: R817
+Current number: 1446
+1: L446
+Current number: 900
+1: L86
+Current number: 714
+1: L70
+Current number: 544
+1: R50
+Current number: 494
+1: R6
+Current number: 400
+1: R138
+Current number: 438
+1: L138
+Current number: 200
+1: L30
+Current number: 70
+1: R938
+Current number: 908
+1: L868
+Current number: 40
+1: R60
+Current number: 0
+1: L60
+Current number: 40
+1: L77
+Current number: 63
+1: L263
+Current number: -100
+1: L79
+Current number: -79
+1: R79
+Current number: 0
+1: L27
+Current number: 73
+1: R26
+Current number: 99
+1: R550
+Current number: 549
+1: L49
+Current number: 400
+1: R5
+Current number: 305
+1: L5
+Current number: 200
+1: L901
+Current number: -601
+1: R501
+Current number: 0
+1: R59
+Current number: 59
+1: L459
+Current number: -300
+1: R81
+Current number: -119
+1: R991
+Current number: 772
+1: L81
+Current number: 591
+1: R33
+Current number: 524
+1: L32
+Current number: 392
+1: L92
+Current number: 200
+1: L409
+Current number: -109
+1: L18
+Current number: -27
+1: R27
+Current number: 0
+1: R90
+Current number: 90
+1: L83
+Current number: 7
+1: R93
+Current number: 0
+1: R25
+Current number: 25
+1: R675
+Current number: 600
+1: R737
+Current number: 1237
+1: L87
+Current number: 1050
+1: R35
+Current number: 985
+1: L341
+Current number: 544
+1: R59
+Current number: 503
+1: L39
+Current number: 364
+1: L43
+Current number: 221
+1: L21
+Current number: 100
+1: L230
+Current number: -30
+1: R30
+Current number: 0
+1: L34
+Current number: 66
+1: R34
+Current number: 0
+1: R93
+Current number: 93
+1: R7
+Current number: 0
+1: R11
+Current number: 11
+1: R89
+Current number: 0
+1: L625
+Current number: -525
+1: R25
+Current number: -400
+1: L83
+Current number: -383
+1: L66
+Current number: -349
+1: L645
+Current number: -894
+1: R710
+Current number: -84
+1: L15
+Current number: 1
+1: R958
+Current number: 859
+1: R41
+Current number: 800
+1: R44
+Current number: 744
+1: L55
+Current number: 589
+1: R32
+Current number: 521
+1: L58
+Current number: 363
+1: L63
+Current number: 200
+1: L640
+Current number: -340
+1: L60
+Current number: -300
+1: R2
+Current number: -198
+1: R741
+Current number: 443
+1: R79
+Current number: 422
+1: L31
+Current number: 291
+1: L691
+Current number: -300
+1: L793
+Current number: -993
+1: L7
+Current number: -900
+1: L9
+Current number: -809
+1: R109
+Current number: -600
+1: L35
+Current number: -535
+1: R44
+Current number: -391
+1: R83
+Current number: -208
+1: L86
+Current number: -194
+1: R217
+Current number: 23
+1: R721
+Current number: 644
+1: R56
+Current number: 600
+1: L82
+Current number: 418
+1: L18
+Current number: 300
+1: R88
+Current number: 288
+1: L88
+Current number: 100
+1: R33
+Current number: 33
+1: R58
+Current number: 91
+1: L691
+Current number: -500
+1: L327
+Current number: -727
+1: L873
+Current number: -1500
+1: L18
+Current number: -1418
+1: L36
+Current number: -1354
+1: R21
+Current number: -1233
+1: L91
+Current number: -1224
+1: L244
+Current number: -1368
+1: R68
+Current number: -1200
+1: R70
+Current number: -1030
+1: L70
+Current number: -1000
+1: R607
+Current number: -293
+1: L7
+Current number: -200
+1: R17
+Current number: -83
+1: L88
+Current number: -71
+1: L43
+Current number: -14
+1: R66
+Current number: 52
+1: R67
+Current number: 19
+1: R81
+Current number: 0
+1: R55
+Current number: 55
+1: L30
+Current number: 25
+1: L325
+Current number: -200
+1: L3
+Current number: -103
+1: R3
+Current number: 0
+1: R54
+Current number: 54
+1: R46
+Current number: 0
+1: L19
+Current number: 81
+1: L26
+Current number: 55
+1: L55
+Current number: 0
+1: L7
+Current number: 93
+1: R218
+Current number: 211
+1: L11
+Current number: 100
+1: L20
+Current number: 80
+1: L48
+Current number: 32
+1: L82
+Current number: 50
+1: L50
+Current number: 0
+1: L54
+Current number: 46
+1: R274
+Current number: 220
+1: L6
+Current number: 114
+1: L97
+Current number: 17
+1: R78
+Current number: 95
+1: R48
+Current number: 43
+1: R813
+Current number: 756
+1: L256
+Current number: 400
+1: L32
+Current number: 268
+1: L58
+Current number: 110
+1: R41
+Current number: 51
+1: R49
+Current number: 0
+1: L67
+Current number: 33
+1: R967
+Current number: 900
+1: L88
+Current number: 712
+1: L25
+Current number: 587
+1: R2
+Current number: 489
+1: L84
+Current number: 305
+1: R95
+Current number: 300
+1: R12
+Current number: 212
+1: L595
+Current number: -283
+1: L90
+Current number: -273
+1: L27
+Current number: -200
+1: L58
+Current number: -158
+1: L59
+Current number: -117
+1: L83
+Current number: -100
+1: R51
+Current number: 51
+1: L151
+Current number: 0
+1: L37
+Current number: 63
+1: R37
+Current number: 0
+1: L85
+Current number: 15
+1: L415
+Current number: -300
+1: R512
+Current number: 112
+1: R95
+Current number: 107
+1: L43
+Current number: 64
+1: L71
+Current number: 93
+1: R59
+Current number: 52
+1: R66
+Current number: 18
+1: R53
+Current number: 71
+1: R23
+Current number: 94
+1: L13
+Current number: 81
+1: R19
+Current number: 0
+1: L56
+Current number: 44
+1: L14
+Current number: 30
+1: L64
+Current number: 66
+1: R47
+Current number: 13
+1: R87
+Current number: 0
+1: L977
+Current number: -877
+1: L23
+Current number: -800
+1: L35
+Current number: -735
+1: R8
+Current number: -627
+1: R83
+Current number: -444
+1: R449
+Current number: 5
+1: L5
+Current number: 0
+1: L52
+Current number: 48
+1: R652
+Current number: 600
+1: L65
+Current number: 435
+1: L90
+Current number: 245
+1: L28
+Current number: 117
+1: R283
+Current number: 300
+1: L51
+Current number: 149
+1: L45
+Current number: 4
+1: R896
+Current number: 800
+1: R661
+Current number: 1361
+1: L361
+Current number: 900
+1: R42
+Current number: 842
+1: L82
+Current number: 660
+1: R40
+Current number: 600
+1: R2
+Current number: 502
+1: L2
+Current number: 400
+1: L36
+Current number: 264
+1: L64
+Current number: 100
+1: R35
+Current number: 35
+1: L378
+Current number: -243
+1: R43
+Current number: -100
+1: L97
+Current number: -97
+1: L3
+Current number: 0
+1: L33
+Current number: 67
+1: L67
+Current number: 0
+1: R83
+Current number: 83
+1: L83
+Current number: 0
+1: R77
+Current number: 77
+1: R36
+Current number: 13
+1: L13
+Current number: 0
+1: R87
+Current number: 87
+1: L76
+Current number: 11
+1: R6
+Current number: 17
+1: L62
+Current number: 55
+1: R59
+Current number: 14
+1: R166
+Current number: 80
+1: R372
+Current number: 352
+1: L1
+Current number: 251
+1: L38
+Current number: 113
+1: L13
+Current number: 0
+1: R43
+Current number: 43
+1: R45
+Current number: 88
+1: L88
+Current number: 0
+1: L80
+Current number: 20
+1: L29
+Current number: 91
+1: L791
+Current number: -600
+1: L23
+Current number: -523
+1: L77
+Current number: -500
+1: L137
+Current number: -537
+1: R937
+Current number: 300
+1: L61
+Current number: 139
+1: R61
+Current number: 100
+1: L6
+Current number: 94
+1: R57
+Current number: 51
+1: R20
+Current number: 71
+1: L71
+Current number: 0
+1: L33
+Current number: 67
+1: L67
+Current number: 0
+1: L89
+Current number: 11
+1: L8
+Current number: 3
+1: R97
+Current number: 0
+1: L7
+Current number: 93
+1: R518
+Current number: 511
+1: L11
+Current number: 400
+1: L35
+Current number: 265
+1: L44
+Current number: 121
+1: R52
+Current number: 73
+1: R20
+Current number: 93
+1: R107
+Current number: 100
+1: R76
+Current number: 76
+1: L64
+Current number: 12
+1: L21
+Current number: 91
+1: L91
+Current number: 0
+1: L61
+Current number: 39
+1: R261
+Current number: 200
+1: R68
+Current number: 168
+1: R32
+Current number: 100
+1: R57
+Current number: 57
+1: R65
+Current number: 22
+1: R78
+Current number: 0
+1: R78
+Current number: 78
+1: L9
+Current number: 69
+1: L57
+Current number: 12
+1: L1
+Current number: 11
+1: L11
+Current number: 0
+1: R64
+Current number: 64
+1: R299
+Current number: 263
+1: R67
+Current number: 230
+1: R71
+Current number: 201
+1: L659
+Current number: -358
+1: L534
+Current number: -792
+1: R35
+Current number: -657
+1: L743
+Current number: -1300
+1: R16
+Current number: -1184
+1: R84
+Current number: -1000
+1: R757
+Current number: -143
+1: L39
+Current number: -82
+1: L18
+Current number: 0
+1: R55
+Current number: 55
+1: L93
+Current number: 62
+1: R60
+Current number: 22
+1: L69
+Current number: 53
+1: R47
+Current number: 0
+1: R10
+Current number: 10
+1: L10
+Current number: 0
+1: R69
+Current number: 69
+1: R431
+Current number: 400
+1: R25
+Current number: 325
+1: R413
+Current number: 638
+1: R62
+Current number: 600
+1: L35
+Current number: 465
+1: R544
+Current number: 909
+1: R91
+Current number: 900
+1: L2
+Current number: 798
+1: L77
+Current number: 621
+1: L721
+Current number: 0
+1: L55
+Current number: 45
+1: L945
+Current number: -800
+1: L94
+Current number: -794
+1: R327
+Current number: -367
+1: R814
+Current number: 347
+1: R55
+Current number: 302
+1: L79
+Current number: 123
+1: R768
+Current number: 791
+1: L91
+Current number: 600
+1: L92
+Current number: 408
+1: L11
+Current number: 297
+1: L26
+Current number: 171
+1: R29
+Current number: 100
+1: L98
+Current number: 2
+1: R254
+Current number: 156
+1: R24
+Current number: 80
+1: L45
+Current number: 35
+1: R65
+Current number: 0
+1: R10
+Current number: 10
+1: L13
+Current number: 97
+1: R203
+Current number: 200
+1: L31
+Current number: 69
+1: R31
+Current number: 0
+1: L48
+Current number: 52
+1: L36
+Current number: 16
+1: R84
+Current number: 0
+1: R29
+Current number: 29
+1: L29
+Current number: 0
+1: L97
+Current number: 3
+1: R85
+Current number: 88
+1: R70
+Current number: 58
+1: R30
+Current number: 88
+1: R12
+Current number: 0
+1: L87
+Current number: 13
+1: R224
+Current number: 137
+1: R63
+Current number: 100
+1: L35
+Current number: 65
+1: L65
+Current number: 0
+1: R76
+Current number: 76
+1: L176
+Current number: 0
+1: L40
+Current number: 60
+1: L60
+Current number: 0
+1: R30
+Current number: 30
+1: L39
+Current number: 91
+1: L91
+Current number: 0
+1: L23
+Current number: 77
+1: R23
+Current number: 0
+1: L82
+Current number: 18
+1: R782
+Current number: 700
+1: R977
+Current number: 1577
+1: L40
+Current number: 1437
+1: R44
+Current number: 1381
+1: L60
+Current number: 1221
+1: R49
+Current number: 1170
+1: L486
+Current number: 584
+1: L36
+Current number: 448
+1: L778
+Current number: -230
+1: L70
+Current number: -200
+1: R45
+Current number: -55
+1: R93
+Current number: 38
+1: L38
+Current number: 0
+1: L99
+Current number: 1
+1: L66
+Current number: 35
+1: R28
+Current number: 63
+1: L34
+Current number: 29
+1: R71
+Current number: 0
+1: L419
+Current number: -319
+1: R81
+Current number: -138
+1: R38
+Current number: 0
+1: L37
+Current number: 63
+1: R80
+Current number: 43
+1: L43
+Current number: 0
+1: R75
+Current number: 75
+1: L13
+Current number: 62
+1: R38
+Current number: 0
+1: L19
+Current number: 81
+1: R102
+Current number: 83
+1: L83
+Current number: 0
+1: L58
+Current number: 42
+1: L10
+Current number: 32
+1: R257
+Current number: 189
+1: R711
+Current number: 800
+1: L44
+Current number: 656
+1: L22
+Current number: 534
+1: L34
+Current number: 400
+1: R52
+Current number: 352
+1: L59
+Current number: 193
+1: R815
+Current number: 908
+1: R592
+Current number: 1400
+1: L297
+Current number: 1003
+1: R97
+Current number: 1000
+1: L66
+Current number: 834
+1: R30
+Current number: 764
+1: R99
+Current number: 763
+1: L835
+Current number: 28
+1: L73
+Current number: 55
+1: L55
+Current number: 0
+1: R982
+Current number: 882
+1: L44
+Current number: 738
+1: R62
+Current number: 700
+1: R56
+Current number: 656
+1: L6
+Current number: 550
+1: R916
+Current number: 1366
+1: L64
+Current number: 1202
+1: R14
+Current number: 1116
+1: R899
+Current number: 1915
+1: L42
+Current number: 1773
+1: L73
+Current number: 1600
+1: R258
+Current number: 1758
+1: R42
+Current number: 1700
+1: R320
+Current number: 1920
+1: L184
+Current number: 1636
+1: L3
+Current number: 1533
+1: L76
+Current number: 1357
+1: L98
+Current number: 1159
+1: R41
+Current number: 1100
+1: R42
+Current number: 1042
+1: L42
+Current number: 900
+1: R25
+Current number: 825
+1: R22
+Current number: 747
+1: R53
+Current number: 700
+1: R25
+Current number: 625
+1: L25
+Current number: 500
+1: R79
+Current number: 479
+1: L361
+Current number: 18
+1: L18
+Current number: 0
+1: R40
+Current number: 40
+1: L40
+Current number: 0
+1: R70
+Current number: 70
+1: L70
+Current number: 0
+1: L3
+Current number: 97
+1: R65
+Current number: 62
+1: R17
+Current number: 79
+1: L88
+Current number: 91
+1: L76
+Current number: 15
+1: R85
+Current number: 0
+1: R21
+Current number: 21
+1: L21
+Current number: 0
+1: R17
+Current number: 17
+1: R96
+Current number: 13
+1: R24
+Current number: 37
+1: R63
+Current number: 0
+1: R15
+Current number: 15
+1: L15
+Current number: 0
+1: R90
+Current number: 90
+1: L90
+Current number: 0
+1: R98
+Current number: 98
+1: L3
+Current number: 95
+1: R87
+Current number: 82
+1: R37
+Current number: 19
+1: L70
+Current number: 49
+1: L49
+Current number: 0
+1: L94
+Current number: 6
+1: R94
+Current number: 0
+1: R93
+Current number: 93
+1: L93
+Current number: 0
+1: R81
+Current number: 81
+1: L81
+Current number: 0
+1: L26
+Current number: 74
+1: L74
+Current number: 0
+1: L40
+Current number: 60
+1: L24
+Current number: 36
+1: R63
+Current number: 99
+1: R1
+Current number: 0
+1: R44
+Current number: 44
+1: R56
+Current number: 0
+1: R3
+Current number: 3
+1: L10
+Current number: 93
+1: L44
+Current number: 49
+1: L57
+Current number: 92
+1: R10
+Current number: 2
+1: L83
+Current number: 19
+1: R51
+Current number: 70
+1: R76
+Current number: 46
+1: R54
+Current number: 0
+1: L69
+Current number: 31
+1: L27
+Current number: 4
+1: L4
+Current number: 0
+1: L26
+Current number: 74
+1: L32
+Current number: 42
+1: L39
+Current number: 3
+1: L24
+Current number: 79
+1: L13
+Current number: 66
+1: L42
+Current number: 24
+1: R27
+Current number: 51
+1: L26
+Current number: 25
+1: L4
+Current number: 21
+1: R22
+Current number: 43
+1: L50
+Current number: 93
+1: R18
+Current number: 11
+1: L13
+Current number: 98
+1: R43
+Current number: 41
+1: R24
+Current number: 65
+1: R28
+Current number: 93
+1: L24
+Current number: 69
+1: R45
+Current number: 14
+1: L17
+Current number: 97
+1: L19
+Current number: 78
+1: L22
+Current number: 56
+1: R39
+Current number: 95
+1: R44
+Current number: 39
+1: L4
+Current number: 35
+1: R42
+Current number: 77
+1: L20
+Current number: 57
+1: L26
+Current number: 31
+1: L49
+Current number: 82
+1: L28
+Current number: 54
+1: R30
+Current number: 84
+1: L10
+Current number: 74
+1: L29
+Current number: 45
+1: R6
+Current number: 51
+1: R26
+Current number: 77
+1: L28
+Current number: 49
+1: L34
+Current number: 15
+1: R14
+Current number: 29
+1: L28
+Current number: 1
+1: L28
+Current number: 73
+1: R6
+Current number: 79
+1: R23
+Current number: 2
+1: L28
+Current number: 74
+1: R33
+Current number: 7
+1: L19
+Current number: 88
+1: R6
+Current number: 94
+1: L22
+Current number: 72
+1: R42
+Current number: 14
+1: L14
+Current number: 0
+1: L41
+Current number: 59
+1: L5
+Current number: 54
+Amount of Zeroes: 565

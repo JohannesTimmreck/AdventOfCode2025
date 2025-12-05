@@ -1,0 +1,120 @@
+1: L68
+Current number: 82
+2: L30
+Current number: 52
+3: R48
+Current number: 0
+4: L5
+Current number: 95
+5: R60
+Current number: 55
+6: L55
+Current number: 0
+7: L1
+Current number: 99
+8: L99
+Current number: 0
+9: R14
+Current number: 14
+10: L82
+Current number: 32
+Amount of 0: 3
+Amount of 1: 0
+Amount of 2: 0
+Amount of 3: 0
+Amount of 4: 0
+Amount of 5: 0
+Amount of 6: 0
+Amount of 7: 0
+Amount of 8: 0
+Amount of 9: 0
+Amount of 10: 0
+Amount of 11: 0
+Amount of 12: 0
+Amount of 13: 0
+Amount of 14: 1
+Amount of 15: 0
+Amount of 16: 0
+Amount of 17: 0
+Amount of 18: 0
+Amount of 19: 0
+Amount of 20: 0
+Amount of 21: 0
+Amount of 22: 0
+Amount of 23: 0
+Amount of 24: 0
+Amount of 25: 0
+Amount of 26: 0
+Amount of 27: 0
+Amount of 28: 0
+Amount of 29: 0
+Amount of 30: 0
+Amount of 31: 0
+Amount of 32: 1
+Amount of 33: 0
+Amount of 34: 0
+Amount of 35: 0
+Amount of 36: 0
+Amount of 37: 0
+Amount of 38: 0
+Amount of 39: 0
+Amount of 40: 0
+Amount of 41: 0
+Amount of 42: 0
+Amount of 43: 0
+Amount of 44: 0
+Amount of 45: 0
+Amount of 46: 0
+Amount of 47: 0
+Amount of 48: 0
+Amount of 49: 0
+Amount of 50: 0
+Amount of 51: 0
+Amount of 52: 1
+Amount of 53: 0
+Amount of 54: 0
+Amount of 55: 1
+Amount of 56: 0
+Amount of 57: 0
+Amount of 58: 0
+Amount of 59: 0
+Amount of 60: 0
+Amount of 61: 0
+Amount of 62: 0
+Amount of 63: 0
+Amount of 64: 0
+Amount of 65: 0
+Amount of 66: 0
+Amount of 67: 0
+Amount of 68: 0
+Amount of 69: 0
+Amount of 70: 0
+Amount of 71: 0
+Amount of 72: 0
+Amount of 73: 0
+Amount of 74: 0
+Amount of 75: 0
+Amount of 76: 0
+Amount of 77: 0
+Amount of 78: 0
+Amount of 79: 0
+Amount of 80: 0
+Amount of 81: 0
+Amount of 82: 1
+Amount of 83: 0
+Amount of 84: 0
+Amount of 85: 0
+Amount of 86: 0
+Amount of 87: 0
+Amount of 88: 0
+Amount of 89: 0
+Amount of 90: 0
+Amount of 91: 0
+Amount of 92: 0
+Amount of 93: 0
+Amount of 94: 0
+Amount of 95: 1
+Amount of 96: 0
+Amount of 97: 0
+Amount of 98: 0
+Amount of 99: 1
